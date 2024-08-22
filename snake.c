@@ -23,7 +23,7 @@ void Setup() {
     srand(time(NULL));
 
     score = 0;
-    dir = RIGHT; // Initialize dir to RIGHT instead of STOP
+    dir = RIGHT;
     x = WIDTH / 2;
     y = HEIGHT / 2;
     fruitX = rand() % WIDTH;
@@ -49,7 +49,7 @@ void Draw() {
 
     mvprintw(y + 1, x + 1, "S");
 
-    mvprintw(HEIGHT + 3, 0, "Score: %d", score);
+    mvprintw(HEIGHT + 3, 0, "Score: %d, Snake at (%d|%d)", score, x, y);
 
     refresh();
 }
@@ -57,6 +57,7 @@ void Draw() {
 void Input() {
     keypad(stdscr, TRUE);
     halfdelay(1);
+    // usleep(50000);
 
     int c = getch();
 
@@ -80,19 +81,31 @@ void Input() {
 }
 
 void Logic() {
-    int prevX = tailX[0];
-    int prevY = tailY[0];
-    int prev2X, prev2Y;
+
+    for (int i = nTail; i > 0; i--) {
+        tailX[i] = tailX[i - 1];
+        tailY[i] = tailY[i - 1];
+    }
+
     tailX[0] = x;
     tailY[0] = y;
 
+    if (x < 0 || x >= WIDTH || y < 0 || y >= HEIGHT) {
+        dir = STOP;
+    }
+
     for (int i = 1; i < nTail; i++) {
-        prev2X = tailX[i];
-        prev2Y = tailY[i];
-        tailX[i] = prevX;
-        tailY[i] = prevY;
-        prevX = prev2X;
-        prevY = prev2Y;
+        if (tailX[i] == x && tailY[i] == y) {
+            dir = STOP;
+            break;
+        }
+    }
+
+    if (x == fruitX && y == fruitY) {
+        score++;
+        fruitX = rand() % WIDTH;
+        fruitY = rand() % HEIGHT;
+        nTail++;
     }
 
     switch (dir) {
@@ -108,30 +121,6 @@ void Logic() {
         case DOWN:
             y++;
             break;
-    }
-
-    if (x >= WIDTH)
-        x = 0;
-    else if (x < 0)
-        x = WIDTH - 1;
-
-    if (y >= HEIGHT)
-        y = 0;
-    else if (y < 0)
-        y = HEIGHT - 1;
-
-    for (int i = 0; i < nTail; i++) {
-        if (tailX[i] == x && tailY[i] == y) {
-            dir = STOP;
-            break;
-        }
-    }
-
-    if (x == fruitX && y == fruitY) {
-        score++;
-        fruitX = rand() % WIDTH;
-        fruitY = rand() % HEIGHT;
-        nTail++;
     }
 }
 
