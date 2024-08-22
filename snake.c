@@ -49,7 +49,7 @@ void Draw() {
 
     mvprintw(y + 1, x + 1, "S");
 
-    mvprintw(HEIGHT + 3, 0, "Score: %d, Snake at (%d|%d)", score, x, y);
+    mvprintw(HEIGHT + 3, 0, "Score: %d", score);
 
     refresh();
 }
