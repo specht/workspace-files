@@ -13764,7 +13764,7 @@ INSERT INTO `ort` (`Name`, `Land`, `Einwohner`, `Laenge`, `Breite`) VALUES
 ('Noisy-le-Sec', 'Frankreich', 40616, '2.4600', '48.8900'),
 ('Orleans', 'Frankreich', 113130, '1.9040', '47.9010'),
 ('Pantin', 'Frankreich', 55799, '2.4100', '48.9000'),
-('Paris', 'France', 2249975, '2.3510', '48.8570'),
+('Paris', 'Frankreich', 2249975, '2.3510', '48.8570'),
 ('Pau', 'Frankreich', 83699, '-0.3900', '43.3000'),
 ('Perpignan', 'Frankreich', 115300, '2.8956', '42.6986'),
 ('Pessac', 'Frankreich', 58692, '-0.6600', '44.8000'),
