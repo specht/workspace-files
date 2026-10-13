@@ -1,0 +1,1019 @@
+{"id":616,"name":"The Notwist"}
+{"id":1003,"name":"Muse"}
+{"id":1289,"name":"Daft Punk","born":1975}
+{"id":1453,"name":"Lisa Germano","born":1958}
+{"id":2770,"name":"AIR"}
+{"id":3101,"name":"Fatboy Slim","born":1963}
+{"id":3775,"name":"Thomas Bangalter","born":1975}
+{"id":3840,"name":"Radiohead"}
+{"id":4654,"name":"Kraftwerk"}
+{"id":4854,"name":"Thom Yorke","born":1968}
+{"id":5087,"name":"Ryuichi Sakamoto","born":1952,"died":2023}
+{"id":5452,"name":"Noel Gallagher"}
+{"id":5530,"name":"Shakira","born":1977}
+{"id":6520,"name":"U2"}
+{"id":7987,"name":"The Police"}
+{"id":8024,"name":"Janet Jackson","born":1966}
+{"id":8760,"name":"Madonna","born":1958}
+{"id":8978,"name":"Billy Corgan","born":1967}
+{"id":9130,"name":"The Avalanches"}
+{"id":9807,"name":"Enya","born":1961}
+{"id":10263,"name":"David Bowie","born":1947,"died":2016}
+{"id":10933,"name":"Bryan Adams","born":1959}
+{"id":11002,"name":"Backstreet Boys"}
+{"id":11012,"name":"Rod Stewart","born":1945}
+{"id":11136,"name":"Peter Gabriel","born":1950}
+{"id":12596,"name":"James Brown","born":1933,"died":2006}
+{"id":13608,"name":"Kylie Minogue","born":1968}
+{"id":13735,"name":"Stevie Nicks","born":1948}
+{"id":14646,"name":"R. Kelly","born":1967}
+{"id":14683,"name":"Gloria Gaynor","born":1943}
+{"id":15687,"name":"Britney Spears","born":1981}
+{"id":15885,"name":"Michael Jackson","born":1958,"died":2009}
+{"id":16798,"name":"Scherrie Payne","born":1944}
+{"id":17212,"name":"Robbie Williams","born":1974}
+{"id":17482,"name":"Apocalyptica"}
+{"id":17827,"name":"Eric Clapton","born":1945}
+{"id":17956,"name":"Damon Harris","born":1950,"died":2013}
+{"id":17961,"name":"Cher","born":1946}
+{"id":17966,"name":"The Supremes"}
+{"id":17971,"name":"Jermaine Jackson","born":1954}
+{"id":18126,"name":"Francisco Aguabella","born":1925,"died":2010}
+{"id":18836,"name":"Kirk Hammett","born":1962}
+{"id":18839,"name":"Metallica"}
+{"id":18956,"name":"Stevie Wonder","born":1950}
+{"id":19132,"name":"Haruomi Hosono","born":1947}
+{"id":19298,"name":"Céline Dion","born":1968}
+{"id":19605,"name":"Tocotronic"}
+{"id":20991,"name":"The Rolling Stones"}
+{"id":21742,"name":"Jay-Z","born":1969}
+{"id":22061,"name":"Yellow Magic Orchestra"}
+{"id":22164,"name":"Earth, Wind & Fire"}
+{"id":22862,"name":"Karl Bartos","born":1952}
+{"id":24221,"name":"Tina Turner","born":1939,"died":2023}
+{"id":27518,"name":"Elvis Presley","born":1935,"died":1977}
+{"id":27637,"name":"Ayumi Hamasaki","born":1978}
+{"id":28332,"name":"The Temptations"}
+{"id":28795,"name":"Prince","born":1958,"died":2016}
+{"id":28970,"name":"The Smashing Pumpkins"}
+{"id":29735,"name":"Coldplay"}
+{"id":29810,"name":"Eddie Kendricks","born":1939,"died":1992}
+{"id":30542,"name":"Whitney Houston","born":1963,"died":2012}
+{"id":30724,"name":"Santana"}
+{"id":31168,"name":"Micha Acher","born":1971}
+{"id":32990,"name":"George Michael","born":1963,"died":2016}
+{"id":33534,"name":"Mariah Carey","born":1969}
+{"id":34278,"name":"Led Zeppelin"}
+{"id":35301,"name":"Paul McCartney","born":1942}
+{"id":36988,"name":"P!NK","born":1979}
+{"id":37231,"name":"Ace Of Base","born":1967}
+{"id":37606,"name":"Cat Stevens","born":1948}
+{"id":37757,"name":"a-ha","born":1959}
+{"id":37955,"name":"Michael Rother","born":1950}
+{"id":38661,"name":"Eminem","born":1972}
+{"id":38863,"name":"Aretha Franklin","born":1942,"died":2018}
+{"id":38905,"name":"Alicia Keys","born":1981}
+{"id":39900,"name":"The Cardigans"}
+{"id":40029,"name":"Linkin Park","died":2017}
+{"id":41157,"name":"The Jackson 5"}
+{"id":41441,"name":"Bob Marley","born":1945,"died":1981}
+{"id":42610,"name":"Chris Martin","born":1977}
+{"id":42613,"name":"Michael Stipe","born":1960}
+{"id":45317,"name":"Die Ärzte","born":1963,"died":2016}
+{"id":45467,"name":"Pink Floyd"}
+{"id":46481,"name":"John Lennon","born":1940,"died":1980}
+{"id":46764,"name":"Terence Trent D'Arby","born":1962}
+{"id":46767,"name":"Billy Preston","born":1946,"died":2006}
+{"id":47333,"name":"Fleetwood Mac"}
+{"id":47742,"name":"Diana Ross","born":1944}
+{"id":48424,"name":"Aerosmith"}
+{"id":49530,"name":"Narada Michael Walden"}
+{"id":51840,"name":"Ray Wilson","born":1968}
+{"id":52145,"name":"The Wailers"}
+{"id":52833,"name":"Frank Sinatra","born":1915,"died":1998}
+{"id":52835,"name":"Beyoncé","born":1981}
+{"id":53248,"name":"Barbra Streisand","born":1942}
+{"id":53887,"name":"Liam Gallagher","born":1972}
+{"id":54650,"name":"INXS"}
+{"id":55980,"name":"The Strokes"}
+{"id":56798,"name":"The Doors","died":1971}
+{"id":56838,"name":"Dave Navarro","born":1967}
+{"id":57103,"name":"Elton John","born":1947}
+{"id":58981,"name":"Yukihiro Takahashi","born":1952,"died":2023}
+{"id":59792,"name":"Bob Dylan","born":1941}
+{"id":65784,"name":"Anthony Phillips","born":1951}
+{"id":66824,"name":"Justin Timberlake","born":1981}
+{"id":69375,"name":"Jackie Wilson","born":1934,"died":1984}
+{"id":69722,"name":"Lionel Richie","born":1949}
+{"id":69866,"name":"ABBA","born":1950}
+{"id":69873,"name":"Benny Andersson","born":1946}
+{"id":70829,"name":"The Beach Boys"}
+{"id":72683,"name":"Dolores O'Riordan","born":1971,"died":2018}
+{"id":72872,"name":"Rick Astley"}
+{"id":74395,"name":"Eels"}
+{"id":74500,"name":"R.E.M."}
+{"id":76869,"name":"Jessica Cleaves","born":1948,"died":2014}
+{"id":77855,"name":"Christina Aguilera","born":1980}
+{"id":79091,"name":"Barry Manilow","born":1943}
+{"id":79340,"name":"Carlos Santana","born":1947}
+{"id":79827,"name":"John Frusciante","born":1970}
+{"id":79949,"name":"Freddie Mercury","born":1946,"died":1991}
+{"id":80566,"name":"Andy Bell","born":1970}
+{"id":81013,"name":"Queen","died":1991}
+{"id":82730,"name":"The Beatles"}
+{"id":83018,"name":"Mick Talbot","born":1958}
+{"id":84752,"name":"AC/DC"}
+{"id":84883,"name":"Seeed"}
+{"id":85101,"name":"Steve Perry","born":1949}
+{"id":86093,"name":"Four Tops"}
+{"id":86101,"name":"David Ruffin"}
+{"id":86301,"name":"Mike Shinoda","born":1977}
+{"id":90541,"name":"Mick Jagger","born":1943}
+{"id":92412,"name":"Ralf Hütter","born":1946}
+{"id":92476,"name":"Red Hot Chili Peppers"}
+{"id":94066,"name":"Van Halen"}
+{"id":94079,"name":"Dennis Edwards","born":1943,"died":2018}
+{"id":95878,"name":"Andy Summers","born":1942}
+{"id":97139,"name":"Usher","born":1978}
+{"id":97664,"name":"Bee Gees","died":2003}
+{"id":97916,"name":"Ronnie Laws","born":1950}
+{"id":97925,"name":"Martin Gretschmann"}
+{"id":98902,"name":"Larry Dunn","born":1953}
+{"id":98903,"name":"Verdine White","born":1951}
+{"id":100405,"name":"Roxette"}
+{"id":100702,"name":"Bruce Johnston","born":1942}
+{"id":101028,"name":"Phil Collins","born":1951}
+{"id":102333,"name":"Glenn Frey","born":1948}
+{"id":102974,"name":"Neil Finn","born":1958}
+{"id":103010,"name":"Modern Talking"}
+{"id":103687,"name":"Dire Straits"}
+{"id":105862,"name":"The Skatalites"}
+{"id":105869,"name":"Lester Sterling","born":1936,"died":2023}
+{"id":105873,"name":"Vin Gordon","born":1949}
+{"id":106474,"name":"Paul Simon","born":1941}
+{"id":110861,"name":"Richard Wright","born":1943,"died":2008}
+{"id":110862,"name":"Roger Waters","born":1943}
+{"id":110863,"name":"David Gilmour","born":1946}
+{"id":112804,"name":"Greg Walker"}
+{"id":112857,"name":"Neil Hubbard","born":1948}
+{"id":115863,"name":"Tommy McCook","died":1998}
+{"id":116683,"name":"Jackie Mittoo","born":1948,"died":1990}
+{"id":117933,"name":"Scott Koziol"}
+{"id":123412,"name":"Armando Peraza","born":1924,"died":2014}
+{"id":124506,"name":"Genesis"}
+{"id":124535,"name":"Guns N' Roses"}
+{"id":124541,"name":"Bon Jovi"}
+{"id":125246,"name":"Nirvana","died":1994}
+{"id":125989,"name":"Steve Hackett","born":1950}
+{"id":126442,"name":"Stewart Copeland","born":1952}
+{"id":128395,"name":"Journey"}
+{"id":130861,"name":"Cliff Martinez","born":1954}
+{"id":135946,"name":"Johnny Cash","born":1932,"died":2003}
+{"id":136870,"name":"Anthony Kiedis"}
+{"id":137418,"name":"Billy Joel","born":1949}
+{"id":137477,"name":"Siobhan Fahey","born":1958}
+{"id":137761,"name":"Markus Acher","born":1967}
+{"id":138069,"name":"Adam Green","born":1981}
+{"id":140140,"name":"Oasis"}
+{"id":144837,"name":"Arne Zank","born":1970}
+{"id":147679,"name":"Magne Furuholmen","born":1962}
+{"id":147801,"name":"Isobel Campbell","born":1976}
+{"id":147802,"name":"Chris Geddes","born":1975}
+{"id":149038,"name":"Agnetha Fältskog","born":1950}
+{"id":149049,"name":"Robert Brookins","born":1962,"died":2009}
+{"id":150409,"name":"Alphonso Johnson","born":1951}
+{"id":151199,"name":"Drake","born":1986}
+{"id":151223,"name":"Amy Winehouse","born":1983,"died":2011}
+{"id":151481,"name":"Barry Gibb","born":1946}
+{"id":152377,"name":"Jonny Greenwood","born":1971}
+{"id":153073,"name":"Kiss"}
+{"id":155833,"name":"The Cranberries"}
+{"id":157277,"name":"Philip Bailey","born":1951}
+{"id":158128,"name":"Lena Philipsson","born":1966}
+{"id":159169,"name":"Jeff Buckley"}
+{"id":162617,"name":"Joe Walsh","born":1947}
+{"id":163111,"name":"David Bryan","born":1962}
+{"id":163850,"name":"Herbert Grönemeyer","born":1956}
+{"id":166273,"name":"Karl Bryan","born":1937}
+{"id":166570,"name":"Keith Richards","born":1943}
+{"id":167557,"name":"Roland Alphonso","born":1931,"died":1998}
+{"id":168244,"name":"Joe Gore"}
+{"id":169783,"name":"Don Drummond","born":1934,"died":1969}
+{"id":170357,"name":"Carpenters"}
+{"id":173104,"name":"Mike Campbell","born":1950}
+{"id":174309,"name":"John Pierce"}
+{"id":174904,"name":"David Lee Roth","born":1954}
+{"id":175132,"name":"Joe Perry","born":1950}
+{"id":175354,"name":"Pierre Baigorry","born":1971}
+{"id":175556,"name":"Tito Jackson","born":1953,"died":2024}
+{"id":178489,"name":"Syd Barrett","born":1946,"died":2006}
+{"id":178572,"name":"Huey Lewis & The News"}
+{"id":179142,"name":"Robin Gibb","born":1949,"died":2012}
+{"id":180119,"name":"Chuck Berry","born":1926,"died":2017}
+{"id":180585,"name":"Jimmy Page","born":1944}
+{"id":180586,"name":"Robert Plant","born":1948}
+{"id":180940,"name":"Rocky Sharpe & The Replays","born":1952,"died":2019}
+{"id":181208,"name":"Leon Thomas","born":1937,"died":1999}
+{"id":181523,"name":"Dieter Bohlen","born":1954}
+{"id":183908,"name":"Tom Walsh"}
+{"id":186246,"name":"Phil X"}
+{"id":189718,"name":"Brian Wilson","born":1942,"died":2025}
+{"id":192112,"name":"Leon Ndugu Chancler","born":1952,"died":2018}
+{"id":192303,"name":"Michael Hutchence","born":1960,"died":1997}
+{"id":192557,"name":"Dexys Midnight Runners"}
+{"id":195321,"name":"Bill Ortiz"}
+{"id":195567,"name":"Maurice White","born":1941,"died":2016}
+{"id":198282,"name":"Foo Fighters","died":2022}
+{"id":202598,"name":"Sufjan Stevens","born":1975}
+{"id":203017,"name":"Dave Grohl","born":1969}
+{"id":205020,"name":"Christine McVie","born":1943,"died":2022}
+{"id":205399,"name":"Morris O'Connor"}
+{"id":207403,"name":"Gordon Sumner","born":1951}
+{"id":208268,"name":"Roger Taylor","born":1949}
+{"id":210671,"name":"Karen Carpenter","born":1950,"died":1983}
+{"id":211671,"name":"Eddie Van Halen","born":1955,"died":2020}
+{"id":217162,"name":"Thomas Anders","born":1963}
+{"id":217450,"name":"Mike Vernon","born":1944,"died":2026}
+{"id":219986,"name":"Bruce Springsteen","born":1949}
+{"id":219999,"name":"Ricky Fataar","born":1952}
+{"id":220621,"name":"Klaus Röder","born":1948}
+{"id":222263,"name":"Richard Sanderson"}
+{"id":225315,"name":"Chad Smith"}
+{"id":227461,"name":"Michael Shrieve","born":1949}
+{"id":227848,"name":"Leonard Cohen","born":1934,"died":2016}
+{"id":232157,"name":"Simon & Garfunkel"}
+{"id":236897,"name":"Mark Knopfler","born":1949}
+{"id":237507,"name":"Gladstone Anderson","born":1934,"died":2015}
+{"id":239453,"name":"Randy Jackson","born":1961}
+{"id":239543,"name":"Robin Finck","born":1971}
+{"id":241527,"name":"Chester Bennington","born":1976,"died":2017}
+{"id":242088,"name":"Ray Manzarek","born":1939}
+{"id":242804,"name":"James Iha","born":1968}
+{"id":243955,"name":"George Harrison","born":1943,"died":2001}
+{"id":245017,"name":"Sammy Hagar","born":1947}
+{"id":245074,"name":"Leroy \"Horsemouth\" Wallace","born":1950}
+{"id":246041,"name":"Wolfgang Seidel","born":1949}
+{"id":246097,"name":"Nick Mason","born":1944}
+{"id":246565,"name":"Ray Davis","born":1940,"died":2005}
+{"id":249597,"name":"Don Henley","born":1947}
+{"id":251517,"name":"Supertramp"}
+{"id":251550,"name":"Lars Ulrich","born":1963}
+{"id":251593,"name":"Green Day"}
+{"id":251654,"name":"Chad Channing","born":1967}
+{"id":251808,"name":"Dave Mustaine","born":1961}
+{"id":251856,"name":"Mike Mills","born":1958}
+{"id":251874,"name":"James Hetfield","born":1963}
+{"id":251950,"name":"Europe"}
+{"id":252301,"name":"Dan Peters","born":1967}
+{"id":252393,"name":"Jon Bon Jovi","born":1962}
+{"id":252409,"name":"Richie Sambora","born":1959}
+{"id":252443,"name":"Def Leppard"}
+{"id":252762,"name":"Hal Lindes","born":1953}
+{"id":252763,"name":"John Illsley","born":1949}
+{"id":252765,"name":"Alan Clark","born":1952}
+{"id":252864,"name":"Belle & Sebastian"}
+{"id":253167,"name":"Spike Edney","born":1951}
+{"id":253212,"name":"Taylor Hawkins","born":1972,"died":2022}
+{"id":253217,"name":"Brian May","born":1947}
+{"id":253297,"name":"Wizo"}
+{"id":253432,"name":"Art Garfunkel","born":1941}
+{"id":253440,"name":"Rico Reyes"}
+{"id":253441,"name":"Gregg Rolie","born":1947}
+{"id":253469,"name":"David Brown","born":1947,"died":2000}
+{"id":254259,"name":"Meat Loaf","born":1947,"died":2022}
+{"id":254911,"name":"Guy Fletcher","born":1960}
+{"id":255182,"name":"Ian Stewart","born":1938,"died":1985}
+{"id":255362,"name":"Die Toten Hosen"}
+{"id":255427,"name":"Vince Gill","born":1957}
+{"id":255605,"name":"Gilby Clarke","born":1962}
+{"id":255624,"name":"Bruce Kulick","born":1953}
+{"id":255628,"name":"Jeff Scott Soto","born":1965}
+{"id":255680,"name":"Eagles"}
+{"id":256093,"name":"Andrew Farriss","born":1959}
+{"id":256141,"name":"Aynsley Dunbar","born":1946}
+{"id":256765,"name":"Peter Svensson","born":1974}
+{"id":257876,"name":"France Gall","born":1947,"died":2018}
+{"id":258105,"name":"Richard Colburn","born":1970}
+{"id":258159,"name":"Axel Kurth"}
+{"id":258163,"name":"Rod Gonzalez","born":1968}
+{"id":259317,"name":"Jason Derlatka"}
+{"id":259459,"name":"Doreen Shaffer"}
+{"id":259760,"name":"Bob Weston","born":1947}
+{"id":260009,"name":"Kevin Rowland","born":1953}
+{"id":260409,"name":"Matt Sorum"}
+{"id":260480,"name":"David Knopfler","born":1952}
+{"id":260501,"name":"Jim Morrison","born":1943,"died":1971}
+{"id":260571,"name":"Carl Wilson","born":1946,"died":1998}
+{"id":260763,"name":"Kirk Pengilly","born":1958}
+{"id":261043,"name":"Tim Farriss","born":1957}
+{"id":261337,"name":"Dale Crover","born":1967}
+{"id":261837,"name":"Bob Welch","born":1945,"died":2012}
+{"id":263425,"name":"Wayne Vaughn"}
+{"id":264046,"name":"Per Gessle","born":1959}
+{"id":264198,"name":"Stevie Jackson","born":1969}
+{"id":264436,"name":"Lindsey Buckingham","born":1949}
+{"id":264996,"name":"Mingo Lewis","born":1953,"died":2026}
+{"id":265003,"name":"Richard Fortus","born":1966}
+{"id":265055,"name":"Dennis Chambers","born":1959}
+{"id":267654,"name":"Dave Mason","born":1946,"died":2026}
+{"id":267854,"name":"Bob Seger","born":1945}
+{"id":267858,"name":"Steve Augeri","born":1959}
+{"id":267984,"name":"Myron McKinley"}
+{"id":268298,"name":"Cindy Blackman","born":1959}
+{"id":268365,"name":"John Deacon","born":1951}
+{"id":268477,"name":"Peter Buck","born":1956}
+{"id":268733,"name":"Björn Ulvaeus","born":1945}
+{"id":268904,"name":"Dave Evans","born":1953}
+{"id":269074,"name":"Nina Persson","born":1974}
+{"id":269355,"name":"The Shirelles"}
+{"id":270445,"name":"Renaldo Benson","born":1937,"died":2005}
+{"id":270470,"name":"Garry Gary Beers","born":1957}
+{"id":271195,"name":"Jon Farriss","born":1961}
+{"id":271311,"name":"Ron Wood","born":1947}
+{"id":271403,"name":"Lee Thornburg"}
+{"id":271569,"name":"Robby Krieger","born":1946}
+{"id":271572,"name":"John Densmore","born":1944}
+{"id":271760,"name":"Calvin \"Bubbles\" Cameron"}
+{"id":271939,"name":"Raul Rekow","born":1954,"died":2015}
+{"id":271964,"name":"Richard Carpenter","born":1946}
+{"id":272064,"name":"Chris Pitman","born":1961}
+{"id":272789,"name":"Timothy B. Schmit","born":1947}
+{"id":272814,"name":"Bill Wyman","born":1936}
+{"id":273039,"name":"Rob Sudduth"}
+{"id":273543,"name":"Malcolm Young","born":1953,"died":2017}
+{"id":273544,"name":"Angus Young"}
+{"id":273840,"name":"John McVie","born":1945}
+{"id":273841,"name":"Mick Fleetwood","born":1947}
+{"id":273986,"name":"Josh Freese","born":1972}
+{"id":275118,"name":"Kurt Cobain","born":1967,"died":1994}
+{"id":276520,"name":"Roland Bautista"}
+{"id":277590,"name":"Eric Singer","born":1958}
+{"id":280111,"name":"Larry Mullen","born":1961}
+{"id":280113,"name":"Adam Clayton","born":1960}
+{"id":281400,"name":"Jesse Tobias","born":1972}
+{"id":281602,"name":"Marie Fredriksson","born":1958,"died":2019}
+{"id":281754,"name":"Krist Novoselic","born":1965}
+{"id":282174,"name":"Orestes Vilato","born":1944}
+{"id":282190,"name":"Melissa Auf Der Maur","born":1972}
+{"id":284531,"name":"Marlon Jackson","born":1957}
+{"id":286983,"name":"Chris Solberg"}
+{"id":286984,"name":"Pete Escovedo","born":1935}
+{"id":286985,"name":"Chris Rhyne"}
+{"id":286986,"name":"David Margen"}
+{"id":286987,"name":"Graham Lear","born":1949}
+{"id":289023,"name":"David Sancious"}
+{"id":289821,"name":"Joey Kramer","born":1950}
+{"id":289823,"name":"Hugh McDonald","born":1951}
+{"id":290019,"name":"Maurice Gibb","born":1949,"died":2003}
+{"id":290674,"name":"Andrew Growcott"}
+{"id":291555,"name":"Kevin Batchelor"}
+{"id":291800,"name":"David Whitworth"}
+{"id":292575,"name":"Bernard Taylor","born":1952,"died":2014}
+{"id":293887,"name":"Joey Waronker","born":1969}
+{"id":293913,"name":"Blondie Chaplin","born":1951}
+{"id":294375,"name":"Roger Hodgson","born":1950}
+{"id":295454,"name":"Jean-Benoît Dunckel","born":1969}
+{"id":296352,"name":"Zak Starkey","born":1965}
+{"id":296372,"name":"Mike Rutherford","born":1950}
+{"id":298386,"name":"Tracii Guns","born":1966}
+{"id":298525,"name":"Richard Starkey","born":1940}
+{"id":299325,"name":"Charlie Watts","born":1941,"died":2021}
+{"id":299677,"name":"Fred White","born":1955,"died":2023}
+{"id":299753,"name":"Tico Torres","born":1953}
+{"id":300117,"name":"Mick Taylor","born":1949}
+{"id":302399,"name":"Tom Coster","born":1941}
+{"id":306109,"name":"Nick Carter","born":1980}
+{"id":307748,"name":"Bekka Bramlett","born":1968}
+{"id":308527,"name":"Steve Smith","born":1954}
+{"id":309051,"name":"Tommy Walter","born":1970}
+{"id":310689,"name":"Al McKay","born":1948}
+{"id":311300,"name":"Don Felder","born":1947}
+{"id":311925,"name":"Alan Jardine","born":1942}
+{"id":311937,"name":"Mike Baird","born":1951}
+{"id":312358,"name":"Ton Steine Scherben"}
+{"id":312730,"name":"Susaye Greene","born":1949}
+{"id":315339,"name":"Ace Frehley","born":1951,"died":2025}
+{"id":317007,"name":"Jens Lekman","born":1981}
+{"id":319158,"name":"Alexander Thomas"}
+{"id":319305,"name":"Kjell Lövbom","born":1960}
+{"id":320326,"name":"Nathan Breedlove"}
+{"id":321128,"name":"Rihanna","born":1988}
+{"id":325627,"name":"Kevin Currie"}
+{"id":325911,"name":"Max Lilja","born":1975}
+{"id":325915,"name":"Eicca Toppinen","born":1975}
+{"id":325969,"name":"Stuart Murdoch","born":1968}
+{"id":326059,"name":"Demba Nabé","born":1972,"died":2018}
+{"id":326962,"name":"Jack Sherman","born":1956,"died":2020}
+{"id":327350,"name":"Dave McGowan"}
+{"id":327538,"name":"Benny Rietveld","born":1959}
+{"id":327869,"name":"John Paris"}
+{"id":327996,"name":"Karl Perazzo"}
+{"id":328063,"name":"Terry Williams","born":1948}
+{"id":328654,"name":"Greg Moore"}
+{"id":329360,"name":"Axl Rose","born":1962}
+{"id":329876,"name":"Rami Jaffee","born":1969}
+{"id":329993,"name":"Ron Thal","born":1969}
+{"id":330650,"name":"Steph Birnbaum","born":1959}
+{"id":330652,"name":"Jimmy Chamberlin","born":1964}
+{"id":330816,"name":"Adam Siegel","born":1969}
+{"id":331720,"name":"Tony Lindsay"}
+{"id":331722,"name":"Andy Vargas"}
+{"id":333018,"name":"Chris Slade","born":1946}
+{"id":333419,"name":"Morten Harket","born":1959}
+{"id":333839,"name":"Cedric \"Im\" Brooks","born":1943,"died":2013}
+{"id":333941,"name":"Arik Marshall","born":1967}
+{"id":334701,"name":"Jan Müller","born":1971}
+{"id":336621,"name":"Jimmy Crespo","born":1954}
+{"id":336678,"name":"Sean Read","born":1963}
+{"id":336885,"name":"Tony Banks","born":1950}
+{"id":337031,"name":"Pete Best","born":1941}
+{"id":339202,"name":"Harold McKenzie"}
+{"id":339211,"name":"Johnny Moore","born":1938,"died":2008}
+{"id":339213,"name":"Lloyd Brevett"}
+{"id":340989,"name":"Steve Shaw"}
+{"id":341160,"name":"Mark Oliver Everett","born":1963}
+{"id":341446,"name":"Richard Baker"}
+{"id":345274,"name":"Pete Saunders","born":1960}
+{"id":348418,"name":"Larry McDonald","born":1937}
+{"id":349117,"name":"Lynda Laurence","born":1949}
+{"id":350080,"name":"Magnus Sveningsson","born":1972}
+{"id":350081,"name":"Bengt Lagerberg","born":1973}
+{"id":350082,"name":"Lars-Olof Johansson","born":1973}
+{"id":350459,"name":"Jim Paterson"}
+{"id":350510,"name":"Randy Meisner","born":1946,"died":2023}
+{"id":350636,"name":"Perttu Kivilaakso","born":1978}
+{"id":351614,"name":"Jonathan Cain","born":1950}
+{"id":351619,"name":"Neal Schon"}
+{"id":352132,"name":"Julian Littman","born":1953}
+{"id":354401,"name":"Sarah Martin","born":1974}
+{"id":354590,"name":"Josh Klinghoffer","born":1979}
+{"id":356780,"name":"Deen Castronovo","born":1964}
+{"id":357753,"name":"Chris Brown","born":1989}
+{"id":359099,"name":"Michael Carabello","born":1947}
+{"id":359421,"name":"Dirk von Lowtzow","born":1971}
+{"id":360506,"name":"Max Punktezahl"}
+{"id":361777,"name":"Leslie Drayton"}
+{"id":362071,"name":"Vincent Crane","born":1943,"died":1989}
+{"id":362321,"name":"Billy Burnette","born":1953}
+{"id":362723,"name":"Willie Greene Jr.","born":1955}
+{"id":362852,"name":"Chester Washington"}
+{"id":363013,"name":"Frank Ferrer"}
+{"id":364272,"name":"Wolfgang Flür","born":1947}
+{"id":364982,"name":"Cliff Burton","born":1962}
+{"id":365506,"name":"Jack Irons","born":1962}
+{"id":365781,"name":"Phil Selway","born":1967}
+{"id":365785,"name":"Colin Greenwood","born":1969}
+{"id":365787,"name":"Nate Mendel","born":1968}
+{"id":365794,"name":"Ed O'Brien","born":1968}
+{"id":365800,"name":"Chris Chaney","born":1970}
+{"id":367337,"name":"Chester Thompson"}
+{"id":367360,"name":"Chris Hayes","born":1957}
+{"id":367829,"name":"Phil Collen","born":1957}
+{"id":367831,"name":"Joe Elliott","born":1959}
+{"id":367832,"name":"Rick Savage","born":1960}
+{"id":368752,"name":"Beverly Lee","born":1941}
+{"id":370421,"name":"Juho Viljanen"}
+{"id":372789,"name":"Mike Love","born":1941}
+{"id":373381,"name":"Florian Schneider","born":1947}
+{"id":373551,"name":"Antero Manninen"}
+{"id":374036,"name":"Doug Rauch"}
+{"id":374890,"name":"John Norum","born":1964}
+{"id":377723,"name":"Helen O'Hara","born":1956}
+{"id":381124,"name":"Ross Valory","born":1949}
+{"id":382230,"name":"Chris Wolstenholme","born":1978}
+{"id":382231,"name":"Dominic Howard","born":1977}
+{"id":382233,"name":"Matthew Bellamy","born":1978}
+{"id":382346,"name":"Paul Speare","born":1955}
+{"id":383809,"name":"Jon Stevens","born":1961}
+{"id":383861,"name":"Kevin Archer","born":1958}
+{"id":385189,"name":"Mary Wilson","born":1944,"died":2021}
+{"id":386307,"name":"Wade Flemons","born":1940}
+{"id":386409,"name":"Earl \"Wire\" Lindo"}
+{"id":387278,"name":"Alan White","born":1972}
+{"id":387763,"name":"Chris Sharrock","born":1964}
+{"id":387771,"name":"Richard Street"}
+{"id":387772,"name":"Paul Williams","born":1939,"died":1973}
+{"id":387773,"name":"Otis Williams","born":1941}
+{"id":387774,"name":"Melvin Franklin","born":1942,"died":1995}
+{"id":387823,"name":"Sean Hopper","born":1953}
+{"id":387846,"name":"Gaylord Birch"}
+{"id":388239,"name":"John Helliwell","born":1945}
+{"id":388633,"name":"Klaus Dinger","born":1946,"died":2008}
+{"id":388698,"name":"Dennis Bryon","born":1949,"died":2024}
+{"id":388881,"name":"Martin Messerschmid"}
+{"id":389426,"name":"Val Douglas"}
+{"id":390461,"name":"Dwight Pinkney","born":1945}
+{"id":390503,"name":"Jason Newsted","born":1963}
+{"id":391245,"name":"Dennis Wilson","born":1944,"died":1983}
+{"id":392364,"name":"Walfredo De Los Reyes, Jr.","born":1955}
+{"id":392650,"name":"Prairie Prince","born":1950}
+{"id":393082,"name":"Leon Patillo","born":1947}
+{"id":393163,"name":"G.C. Cameron","born":1945}
+{"id":393567,"name":"Fritz Hilpert"}
+{"id":394033,"name":"Carl Carwell"}
+{"id":394643,"name":"Arnold Brackenridge"}
+{"id":395439,"name":"Mick Cooke","born":1973}
+{"id":395811,"name":"Rick Davies","born":1944,"died":2025}
+{"id":397847,"name":"Rick Vito","born":1949}
+{"id":397857,"name":"Ronnie McNeir","born":1949}
+{"id":398307,"name":"Matt Laug"}
+{"id":398509,"name":"Michael Anthony","born":1954}
+{"id":398510,"name":"Alex Van Halen","born":1953}
+{"id":398999,"name":"Jesse Siebenberg"}
+{"id":399000,"name":"Bob Siebenberg","born":1949}
+{"id":399209,"name":"Ralph Johnson"}
+{"id":401507,"name":"Jason White","born":1973}
+{"id":401992,"name":"Dougie Thomson","born":1951}
+{"id":402214,"name":"Bill Berry","born":1958}
+{"id":402564,"name":"Cliff Williams","born":1949}
+{"id":402565,"name":"Phil Rudd","born":1954}
+{"id":402566,"name":"Brian Johnson","born":1947}
+{"id":403072,"name":"Richard Palmer-James","born":1947}
+{"id":403187,"name":"Constantine 'Vision' Walker","born":1951}
+{"id":403593,"name":"John Mayhew","born":1947,"died":2009}
+{"id":405037,"name":"Tom Hamilton","born":1951}
+{"id":405041,"name":"Brad Whitford","born":1952}
+{"id":406621,"name":"Nicolas Godin","born":1969}
+{"id":407057,"name":"Tommy Thayer","born":1960}
+{"id":407631,"name":"Sonny Emory","born":1962}
+{"id":408566,"name":"Henning Schmitz","born":1953}
+{"id":409290,"name":"Brian Jones","born":1942,"died":1969}
+{"id":411838,"name":"Richard Kermode","born":1946,"died":1996}
+{"id":411847,"name":"Billie Joe Armstrong","born":1972}
+{"id":411850,"name":"Jules Broussard","born":1937}
+{"id":413631,"name":"Jeremy Spencer","born":1948}
+{"id":414255,"name":"Dick Taylor","born":1943}
+{"id":414643,"name":"Florence Ballard","born":1943,"died":1976}
+{"id":416382,"name":"Jonas \"Joker\" Berggren","born":1967}
+{"id":418822,"name":"Mark Hart","born":1953}
+{"id":420030,"name":"Pick Withers","born":1948}
+{"id":420717,"name":"John Levén","born":1963}
+{"id":423943,"name":"Carl Verheyen","born":1954}
+{"id":424278,"name":"Guy-Manuel de Homem-Christo","born":1974}
+{"id":427226,"name":"Tommy Stinson","born":1966}
+{"id":427389,"name":"Steven Adler","born":1965}
+{"id":429260,"name":"Tony McCarroll","born":1971}
+{"id":430104,"name":"Albert Hammond Jr.","born":1980}
+{"id":430105,"name":"Nikolai Fraiture","born":1978}
+{"id":430106,"name":"Julian Casablancas","born":1978}
+{"id":430107,"name":"Nick Valensi","born":1981}
+{"id":430108,"name":"Fabrizio Moretti","born":1980}
+{"id":430878,"name":"Lawrence Payton","born":1938,"died":1997}
+{"id":434810,"name":"Greg Errico","born":1948}
+{"id":437680,"name":"James Harrah"}
+{"id":438315,"name":"William Goldsmith"}
+{"id":439147,"name":"Gary Cherone","born":1961}
+{"id":440966,"name":"Ulf \"Buddha\" Ekberg","born":1970}
+{"id":441072,"name":"Jason Everman","born":1967}
+{"id":441354,"name":"Alan Kendall","born":1944}
+{"id":441372,"name":"Johnny Graham","born":1951}
+{"id":444740,"name":"Jérôme Bugnon"}
+{"id":447300,"name":"Mario Ochoa"}
+{"id":447669,"name":"Gem Archer"}
+{"id":449016,"name":"Randy Jackson","born":1956}
+{"id":452005,"name":"Jeff Cressman"}
+{"id":455772,"name":"Aaron Burckhard","born":1963}
+{"id":457468,"name":"John Bonham","born":1948,"died":1980}
+{"id":457698,"name":"Bertis Downs IV"}
+{"id":457699,"name":"Jefferson Holt"}
+{"id":459255,"name":"Dave Winthrop","born":1948}
+{"id":459513,"name":"Stuart Sutcliffe","born":1940,"died":1962}
+{"id":459613,"name":"Robert Millar","born":1950,"died":2024}
+{"id":460050,"name":"Bon Scott"}
+{"id":462077,"name":"Brad Delson","born":1977}
+{"id":462399,"name":"Andreas Hohmann"}
+{"id":463092,"name":"The Chet"}
+{"id":463597,"name":"Alice Cooper","born":1948}
+{"id":464876,"name":"Yumi Matsutoya","born":1954}
+{"id":467424,"name":"Rado Klose","born":1944}
+{"id":468100,"name":"Butch Norton"}
+{"id":468118,"name":"Jim Jacobsen"}
+{"id":469093,"name":"Jah Jerry Haynes","born":1927,"died":2007}
+{"id":469094,"name":"Lloyd Knibbs"}
+{"id":476489,"name":"Paavo Lötjönen","born":1968}
+{"id":476734,"name":"Mikko Sirén","born":1975}
+{"id":477107,"name":"Bobby Ward"}
+{"id":478325,"name":"Frank Dellé","born":1970}
+{"id":478864,"name":"Jan Vetter","born":1963}
+{"id":480593,"name":"Malin \"Linn\" Berggren","born":1970}
+{"id":480701,"name":"Bob Kildea","born":1972}
+{"id":480906,"name":"Jenny Berggren","born":1972}
+{"id":482142,"name":"Bernie Leadon","born":1947}
+{"id":482343,"name":"Pete Willis","born":1960}
+{"id":482344,"name":"Steve Clark","born":1960,"died":1991}
+{"id":487076,"name":"Darren Seltmann"}
+{"id":487077,"name":"Robbie Chater","born":1975}
+{"id":487593,"name":"Kevin Richardson","born":1971}
+{"id":487594,"name":"A.J. McLean","born":1978}
+{"id":487596,"name":"Brian T. Littrell","born":1975}
+{"id":487664,"name":"Howie Dorough","born":1973}
+{"id":488218,"name":"Myron Dove"}
+{"id":489744,"name":"Alec John Such","born":1951,"died":2022}
+{"id":489981,"name":"Andy Hobson"}
+{"id":490079,"name":"Robert Trujillo","born":1964}
+{"id":491613,"name":"Rodney Holmes","born":1966,"died":2026}
+{"id":493177,"name":"Alex Ligertwood","born":1946,"died":2026}
+{"id":493220,"name":"Dirk Schlömer"}
+{"id":500558,"name":"Bill Gibson","born":1951}
+{"id":500560,"name":"Mario Cipollina","born":1954}
+{"id":501437,"name":"Paul Hewson"}
+{"id":501438,"name":"Dave Evans","born":1961}
+{"id":505162,"name":"Ciaran Gribbin"}
+{"id":509874,"name":"Ron McGovney","born":1962}
+{"id":512044,"name":"Sheldon Reynolds","died":2023}
+{"id":513566,"name":"Pablo Tellez"}
+{"id":513652,"name":"Hillel Slovak","born":1962,"died":1988}
+{"id":513847,"name":"Danny Kirwan","born":1950}
+{"id":516255,"name":"Serg Dimitrijevic"}
+{"id":516587,"name":"Marcel Jacob","born":1964,"died":2009}
+{"id":517457,"name":"John \"Rhino\" Edwards","born":1953}
+{"id":517955,"name":"Rob Bourdon","born":1979}
+{"id":517956,"name":"Joseph Hahn","born":1977}
+{"id":519870,"name":"Franz Stahl","born":1961}
+{"id":520402,"name":"Mark St. John","born":1956,"died":2007}
+{"id":521909,"name":"John Baldwin"}
+{"id":522400,"name":"Mark Evans","born":1956}
+{"id":522725,"name":"Keith Baker","born":1948}
+{"id":523243,"name":"Beverley Kelso","born":1948}
+{"id":523244,"name":"Junior Braithwaite"}
+{"id":523685,"name":"Abdul Fakir","born":1935,"died":2024}
+{"id":523689,"name":"Levi Stubbs, Jr.","born":1936,"died":2008}
+{"id":528324,"name":"Henry Padovani","born":1952}
+{"id":529024,"name":"Chris Shiflett","born":1971}
+{"id":530745,"name":"Guy Berryman","born":1978}
+{"id":530746,"name":"Will Champion","born":1978}
+{"id":530747,"name":"Jon Buckland","born":1977}
+{"id":530749,"name":"Phil Harvey","born":1976}
+{"id":537758,"name":"Brian Carroll"}
+{"id":541898,"name":"Eberhard Kranemann","born":1945}
+{"id":542554,"name":"Vincent Graf von Schlippenbach","born":1980}
+{"id":542555,"name":"Sebastian Krajewski"}
+{"id":542556,"name":"Torsten Reibold"}
+{"id":543575,"name":"Mike Hogan","born":1973}
+{"id":543576,"name":"Noel Hogan","born":1971}
+{"id":543577,"name":"Feargal Lawler","born":1971}
+{"id":548679,"name":"Nick Gatfield","born":1960}
+{"id":555021,"name":"Luis Bonilla"}
+{"id":560183,"name":"Stuart David"}
+{"id":565362,"name":"Wendy Haas","born":1950}
+{"id":565386,"name":"Cliff Hugo","born":1951}
+{"id":575469,"name":"Frank Farrell","born":1947,"died":1997}
+{"id":576991,"name":"Andrew Woolfolk"}
+{"id":578592,"name":"David Prater"}
+{"id":578617,"name":"John Silver"}
+{"id":578629,"name":"Keith Jones"}
+{"id":580793,"name":"Sabaton"}
+{"id":582639,"name":"Rick Allen","born":1963}
+{"id":583571,"name":"Vivian Campbell","born":1962}
+{"id":591961,"name":"Mic Michaeli","born":1962}
+{"id":605785,"name":"Paul McGuigan","born":1971}
+{"id":605786,"name":"Paul Arthurs","born":1965}
+{"id":607498,"name":"Kai Sichtermann","born":1951}
+{"id":607501,"name":"Funky K. Götzner"}
+{"id":607503,"name":"Martin Paul","born":1954,"died":2026}
+{"id":619846,"name":"Andreas Haberl"}
+{"id":627426,"name":"Elfie-Esther Steitz"}
+{"id":627435,"name":"Britta Neander","born":1956,"died":2004}
+{"id":627438,"name":"Angie Olbrich"}
+{"id":628555,"name":"Billy Adams"}
+{"id":628556,"name":"Brian Maurice"}
+{"id":628558,"name":"Micky Billingham"}
+{"id":628559,"name":"Seb Shelton"}
+{"id":628561,"name":"Giorgio Kilkenny"}
+{"id":628580,"name":"Tim Dancy"}
+{"id":629065,"name":"Tommy Evans"}
+{"id":629843,"name":"Andreas Von Holst","born":1964}
+{"id":629844,"name":"Michael Breitkopf","born":1964}
+{"id":629845,"name":"Andreas Frege","born":1962}
+{"id":629867,"name":"Wolfgang Rohde","born":1950}
+{"id":631983,"name":"Ron Stallings","born":1946,"died":2009}
+{"id":633901,"name":"Houschäng Nejadépour"}
+{"id":634036,"name":"Paul Waaktaar-Savoy","born":1961}
+{"id":634811,"name":"James De La Cruz"}
+{"id":634813,"name":"Gordon McQuilten"}
+{"id":645745,"name":"Andreas Meurer","born":1962}
+{"id":651756,"name":"Johnny Colla","born":1952}
+{"id":654581,"name":"Greg Glassman"}
+{"id":655101,"name":"Dirk Felsenheimer","born":1962}
+{"id":673981,"name":"Neville Livingston","born":1947,"died":2021}
+{"id":676432,"name":"Miley Cyrus","born":1992}
+{"id":676691,"name":"Morris Pleasure"}
+{"id":677434,"name":"Tony Chapman"}
+{"id":677685,"name":"Robert Fleischman","born":1953}
+{"id":684051,"name":"Vince Melouney","born":1945}
+{"id":684052,"name":"Colin Petersen","born":1946,"died":2024}
+{"id":687451,"name":"Elbridge Bryant","born":1939,"died":1975}
+{"id":688940,"name":"Anni-Frid Lyngstad","born":1945}
+{"id":694606,"name":"Ginger Reyes","born":1977}
+{"id":697611,"name":"Darren Eric Henley","born":1959,"died":2022}
+{"id":700584,"name":"Michael Balzary","born":1962}
+{"id":707195,"name":"Simon Wright","born":1963}
+{"id":707363,"name":"Colin Burgess","born":1946}
+{"id":708039,"name":"Barbara Martin"}
+{"id":712085,"name":"Ian Haugland"}
+{"id":714876,"name":"Dave Farrell","born":1977}
+{"id":715277,"name":"Jeffrey Isbell","born":1962}
+{"id":715278,"name":"Saul Hudson","born":1965}
+{"id":717989,"name":"Sterling Crew"}
+{"id":719385,"name":"Cary Brown"}
+{"id":727017,"name":"Pete Williams","born":1960}
+{"id":727355,"name":"Vincent Cusano","born":1952}
+{"id":734189,"name":"Michael Beal"}
+{"id":734864,"name":"Sydney Wolfe"}
+{"id":736644,"name":"Wendell Kelly"}
+{"id":739944,"name":"Hans Runge","born":1964}
+{"id":745670,"name":"Frank E. Wright","born":1972}
+{"id":745674,"name":"Michael Pritchard","born":1972}
+{"id":749201,"name":"Hagen Liebing","born":1961,"died":2016}
+{"id":752557,"name":"Don Whitehead"}
+{"id":752558,"name":"Sherry Scott"}
+{"id":755309,"name":"D'Arcy Wretzky","born":1968}
+{"id":756160,"name":"Michael Timothy"}
+{"id":760763,"name":"Steve Spooner"}
+{"id":762429,"name":"Cindy Birdsong","born":1939}
+{"id":763718,"name":"Jean Terrell","born":1944}
+{"id":766974,"name":"James Smith"}
+{"id":769914,"name":"Bob Brunning","born":1943,"died":2011}
+{"id":774092,"name":"Hiroshi Kamayatsu","born":1939,"died":2017}
+{"id":785113,"name":"Johnnie Bamont","born":1951}
+{"id":785118,"name":"Marvin McFadden"}
+{"id":785675,"name":"Ronald Presson"}
+{"id":798521,"name":"Kate Nash","born":1987}
+{"id":802838,"name":"Johnny Jackson","born":1951,"died":2006}
+{"id":806791,"name":"Werner Götz","born":1942,"died":2013}
+{"id":806793,"name":"Ralph Steitz","born":1950,"died":2024}
+{"id":808293,"name":"Miss Li","born":1982}
+{"id":813097,"name":"Ralph Möbius","born":1950,"died":1996}
+{"id":819015,"name":"Adele","born":1988}
+{"id":825563,"name":"Jörn Genserowski"}
+{"id":831677,"name":"Ali-Ollie Woodson","born":1951,"died":2010}
+{"id":832198,"name":"Moritz Schumacher"}
+{"id":833928,"name":"Tommy Anthony"}
+{"id":836038,"name":"Rick McPhail","born":1970}
+{"id":837940,"name":"Roquel Payton","born":1960}
+{"id":849866,"name":"Get Well Soon"}
+{"id":862110,"name":"Paoli Mejias"}
+{"id":862785,"name":"Lucy Morgan"}
+{"id":872837,"name":"Devon James"}
+{"id":877225,"name":"Lisa Mitchell","born":1990}
+{"id":884101,"name":"Shirley Owens","born":1941}
+{"id":889299,"name":"Doris Coley","born":1941,"died":2000}
+{"id":889301,"name":"Addie Harris","born":1940,"died":1982}
+{"id":889756,"name":"Louis Price","born":1953}
+{"id":891647,"name":"DJ Ashba","born":1972}
+{"id":892907,"name":"Tony Grant"}
+{"id":898497,"name":"Derek Weaver"}
+{"id":902031,"name":"Thomas Rutley"}
+{"id":909302,"name":"Marius Del Mestre"}
+{"id":910250,"name":"Nicole Fiorentino","born":1979}
+{"id":913900,"name":"Bill Hinds"}
+{"id":914997,"name":"Rick Dufay","born":1952}
+{"id":920957,"name":"Nikel Pallat"}
+{"id":942642,"name":"Sigmund Jackson","born":1951}
+{"id":949055,"name":"Andrae Murchison"}
+{"id":951699,"name":"Jeff Schroeder","born":1974}
+{"id":966354,"name":"Mitch Malloy","born":1961}
+{"id":971243,"name":"Katy Perry","born":1984}
+{"id":971938,"name":"Paul Tobias","born":1963}
+{"id":972765,"name":"Marcus Malone"}
+{"id":973915,"name":"Douglas Graves"}
+{"id":975603,"name":"Georg Ruthenberg"}
+{"id":995837,"name":"Will Clark"}
+{"id":1002707,"name":"Jack Sonni","born":1954,"died":2023}
+{"id":1017220,"name":"Rohan Gordon"}
+{"id":1025123,"name":"Larry Van Kriedt","born":1954}
+{"id":1042363,"name":"Bob \"Doc\" Livingston"}
+{"id":1052213,"name":"Stanley Ribbs"}
+{"id":1103159,"name":"Lady Gaga","born":1986}
+{"id":1119268,"name":"Geoff Bridgford"}
+{"id":1124645,"name":"Taylor Swift","born":1989}
+{"id":1135332,"name":"Rüdiger Kusserow"}
+{"id":1137399,"name":"Steve Young","born":1956}
+{"id":1151007,"name":"Bruce Williamson Jr."}
+{"id":1151013,"name":"Mattias Alfheim"}
+{"id":1155131,"name":"Phillard Williams"}
+{"id":1161922,"name":"Winston McIntosh","born":1944,"died":1987}
+{"id":1170515,"name":"Ingo Hahn"}
+{"id":1174185,"name":"Mark Berney"}
+{"id":1175791,"name":"Barrington Henderson","born":1956}
+{"id":1178098,"name":"David Marks","born":1948}
+{"id":1191620,"name":"Arnel Pineda","born":1967}
+{"id":1209436,"name":"Fernando Abrantes"}
+{"id":1223545,"name":"Mick Bolton","born":1948,"died":2021}
+{"id":1245192,"name":"Pär Sundström","born":1981}
+{"id":1245194,"name":"Oskar Montelius"}
+{"id":1245197,"name":"Daniel Mullback"}
+{"id":1245199,"name":"Joakim Brodén","born":1980}
+{"id":1245200,"name":"Rikard Sundén","born":1981}
+{"id":1245215,"name":"Daniel Mÿhr"}
+{"id":1249976,"name":"Steve Wynne"}
+{"id":1251948,"name":"Jörg Schlotterer"}
+{"id":1251949,"name":"Olaf Lietzau"}
+{"id":1270930,"name":"Ran Huber"}
+{"id":1271897,"name":"Andy Leek"}
+{"id":1294008,"name":"Helen Highwater"}
+{"id":1294777,"name":"Thomas Guhl"}
+{"id":1340186,"name":"John Kiffmeyer","born":1969}
+{"id":1351093,"name":"Cherry Green","born":1943}
+{"id":1351822,"name":"Chris Zasche"}
+{"id":1357693,"name":"Bruno Mars","born":1985}
+{"id":1375109,"name":"Bill Smith"}
+{"id":1377762,"name":"Alfi Trowers"}
+{"id":1417505,"name":"Michael Sawitzke"}
+{"id":1452758,"name":"Bryan Mantia","born":1963}
+{"id":1488220,"name":"David K. Mathews","born":1959}
+{"id":1489966,"name":"Ilan Rubin","born":1988}
+{"id":1499433,"name":"Harry McGilberry","born":1950,"died":2006}
+{"id":1585234,"name":"Dave Walker","born":1945}
+{"id":1585812,"name":"Geoff Blythe"}
+{"id":1590083,"name":"Karlheinz \"Charly\" Zaske"}
+{"id":1602787,"name":"Justin Bieber","born":1994}
+{"id":1613610,"name":"Jochen Bix"}
+{"id":1615988,"name":"Nicki Minaj","born":1982}
+{"id":1630096,"name":"Mickey Hanson"}
+{"id":1633310,"name":"Robert Podsiadly","born":1952,"died":2019}
+{"id":1633311,"name":"Jan Podsiadly"}
+{"id":1685882,"name":"George Tickner"}
+{"id":1694157,"name":"Charly Weiss","born":1939,"died":2009}
+{"id":1735860,"name":"Isaac Carpenter"}
+{"id":1752020,"name":"Mike Byrne","born":1990}
+{"id":1778268,"name":"Chris Stewart"}
+{"id":1793263,"name":"Todd Jensen"}
+{"id":1810083,"name":"Uli Hammer"}
+{"id":1824112,"name":"Glenn Leonard","born":1947}
+{"id":1850806,"name":"Steve \"Vom\" Ritchie","born":1964}
+{"id":1878207,"name":"Bang Chan"}
+{"id":1896139,"name":"Melissa Reese","born":1985}
+{"id":1987676,"name":"Ralf Dietel"}
+{"id":2028458,"name":"KraftKlub"}
+{"id":2047853,"name":"Tony Currenti","born":1951}
+{"id":2053787,"name":"Zem Audu"}
+{"id":2075612,"name":"Jakob Keusen"}
+{"id":2091594,"name":"Ricky Owens","born":1939,"died":1996}
+{"id":2104840,"name":"The Head And The Heart"}
+{"id":2144078,"name":"Mario Corbino","born":1969}
+{"id":2171152,"name":"The Weeknd","born":1990}
+{"id":2184482,"name":"Ed Sheeran","born":1991}
+{"id":2215999,"name":"Hannes van Dahl"}
+{"id":2216964,"name":"Derek Brown"}
+{"id":2268518,"name":"Radwimps"}
+{"id":2444295,"name":"Tobias Cordes"}
+{"id":2490046,"name":"Jack Stratton"}
+{"id":2529844,"name":"Andy Szekeres"}
+{"id":2531654,"name":"Felix Kummer"}
+{"id":2550258,"name":"Walter November"}
+{"id":2605741,"name":"Karl Schumann"}
+{"id":2605742,"name":"Maximilian Marschk"}
+{"id":2614513,"name":"Wolfgang Van Halen","born":1991}
+{"id":2627980,"name":"Ray Greene"}
+{"id":2654887,"name":"Paul Caravello","born":1950,"died":1991}
+{"id":2707316,"name":"Allen Hunter"}
+{"id":2707828,"name":"Luke 4000"}
+{"id":2708968,"name":"Emily Armstrong","born":1986}
+{"id":2718584,"name":"Mr. Hurley & Die Pulveraffen"}
+{"id":2727700,"name":"Imagine Dragons"}
+{"id":2738978,"name":"Daniel Platzman","born":1986}
+{"id":2738979,"name":"Ben McKee","born":1985}
+{"id":2738980,"name":"Dan Reynolds","born":1987}
+{"id":2738981,"name":"Wayne Sermon","born":1984}
+{"id":2760696,"name":"Dexter Fabay"}
+{"id":2783506,"name":"Christoph Erichsen"}
+{"id":2783508,"name":"Simon Erichsen"}
+{"id":2783510,"name":"Johannes Erichsen"}
+{"id":2804776,"name":"Madeleine Hyland"}
+{"id":2814443,"name":"Jose \"Pepe\" Jimenez"}
+{"id":2845807,"name":"Barry Mitchell","died":2026}
+{"id":2856301,"name":"Hugh Cregg"}
+{"id":2883873,"name":"Tony Kenning"}
+{"id":2891750,"name":"Till Kummer"}
+{"id":2904246,"name":"Thorbjörn Englund","born":1979}
+{"id":2918572,"name":"Ken Stewart"}
+{"id":2934140,"name":"Georg Bongartz"}
+{"id":3010193,"name":"Trevor \"Sparrow\" Thompson"}
+{"id":3041892,"name":"Andrew Tolman"}
+{"id":3041893,"name":"Brittany Tolman"}
+{"id":3093940,"name":"Tommy Johansson","born":1987}
+{"id":3203712,"name":"Aurelien \"Natty Frenchy\" Metsch"}
+{"id":3262133,"name":"Cico Beck"}
+{"id":3268370,"name":"Anant Pradhan"}
+{"id":3268468,"name":"Noel Taylor"}
+{"id":3271825,"name":"Robban Bäck","born":1985}
+{"id":3310737,"name":"Ariana Grande","born":1993}
+{"id":3319701,"name":"Terry Weeks","born":1963}
+{"id":3447650,"name":"Theo Peoples","born":1961}
+{"id":3452933,"name":"Joakim Larsson","born":1963}
+{"id":3477461,"name":"Larry Braggs"}
+{"id":3487682,"name":"Philip Doron Bailey"}
+{"id":3508006,"name":"Charity Thielen"}
+{"id":3516011,"name":"Jonathan Russell"}
+{"id":3516014,"name":"Josiah Johnson"}
+{"id":3516020,"name":"Kenny Hensley"}
+{"id":3516026,"name":"Tyler Williams"}
+{"id":3533212,"name":"Joe Herndon","born":1949}
+{"id":3636177,"name":"José \"Chepito\" Areas","born":1946}
+{"id":3719884,"name":"Jeff Matika"}
+{"id":3789093,"name":"Ray Tabano","born":1946}
+{"id":3790356,"name":"Michael McKagan"}
+{"id":3830108,"name":"Colin Cunningham","born":1986}
+{"id":3836981,"name":"Chris Rörland","born":1986}
+{"id":3852265,"name":"Woody Goss"}
+{"id":3852267,"name":"Joe Dart"}
+{"id":3852268,"name":"Theo Katzman"}
+{"id":3852273,"name":"Vulfpeck"}
+{"id":3868172,"name":"Yusuke Takeda"}
+{"id":3879385,"name":"Peter Clack"}
+{"id":3879386,"name":"Rob Bailey"}
+{"id":4007253,"name":"Andy Hamilton"}
+{"id":4016434,"name":"Post Malone","born":1995}
+{"id":4020841,"name":"Stephen Sanchez"}
+{"id":4033267,"name":"Katsumi"}
+{"id":4033637,"name":"Peter Olsson","born":1961}
+{"id":4148169,"name":"Steven Tallarico"}
+{"id":4164516,"name":"Mike Grose","died":2019}
+{"id":4165467,"name":"Darren Arthur Reed"}
+{"id":4262711,"name":"Ratz"}
+{"id":4357593,"name":"Dua Lipa","born":1995}
+{"id":4390346,"name":"Red Velvet"}
+{"id":4489474,"name":"V","born":1995}
+{"id":4774736,"name":"Thomas Escovedo","born":1941,"died":1986}
+{"id":4782987,"name":"Blackbyrd McKnight","born":1954}
+{"id":4786543,"name":"Twice"}
+{"id":4887417,"name":"Satoshi Yamaguchi","born":1985}
+{"id":4907970,"name":"Doris D. Jackson"}
+{"id":4932060,"name":"Wendy","born":1994}
+{"id":4932061,"name":"Yeri","born":1999}
+{"id":4932062,"name":"Joy","born":1996}
+{"id":4932063,"name":"Seul Gi","born":1994}
+{"id":4932064,"name":"Irene","born":1991}
+{"id":4932153,"name":"Chae Young","born":1999}
+{"id":4932154,"name":"Na Yeon","born":1995}
+{"id":4932155,"name":"Jung Yeon","born":1996}
+{"id":4932156,"name":"Ji Hyo","born":1997}
+{"id":4932157,"name":"Sana","born":1996}
+{"id":4932158,"name":"Da Hyun","born":1998}
+{"id":4932159,"name":"Momo","born":1996}
+{"id":4932160,"name":"Tzuyu","born":1999}
+{"id":4932161,"name":"Mina","born":1997}
+{"id":5034422,"name":"BTS"}
+{"id":5049492,"name":"Stanley Eisen"}
+{"id":5115944,"name":"Jimin","born":1995}
+{"id":5123016,"name":"Cory Wong","born":1985}
+{"id":5167386,"name":"Klaus-Peter Trimpop","born":1951}
+{"id":5210284,"name":"Blackpink"}
+{"id":5525291,"name":"Dave Foster"}
+{"id":5529632,"name":"Ole Beich","died":1991}
+{"id":5570617,"name":"J-Hope","born":1994}
+{"id":5570618,"name":"Jin","born":1992}
+{"id":5570620,"name":"Jungkook","born":1997}
+{"id":5570699,"name":"Suga","born":1993}
+{"id":5590213,"name":"Billie Eilish","born":2001}
+{"id":5617696,"name":"Clara Hagman"}
+{"id":5702269,"name":"Tony Niemistö","born":1963}
+{"id":5943118,"name":"Stephanie Eitzert"}
+{"id":5953255,"name":"Thorsten Schwämmle"}
+{"id":6075925,"name":"Stefan Pfaffe"}
+{"id":6095296,"name":"Esther Erichsen"}
+{"id":6114570,"name":"Yojiro Noda","born":1985}
+{"id":6115972,"name":"Falk Grieffenhagen"}
+{"id":6127661,"name":"Theresa Flaminio"}
+{"id":6238640,"name":"Peter Greenbaum","born":1946,"died":2020}
+{"id":6688717,"name":"Ané Marshall"}
+{"id":6746932,"name":"Cameron Greenlee"}
+{"id":6771863,"name":"Lalisa Manoban"}
+{"id":6771866,"name":"Jennie Kim","born":1996}
+{"id":6771905,"name":"Jisoo","born":1995}
+{"id":6771907,"name":"Jennie","born":1996}
+{"id":6792286,"name":"Alex Klemm"}
+{"id":6838809,"name":"Stray Kids"}
+{"id":6917346,"name":"朝生恵"}
+{"id":6917347,"name":"芝藤昭夫"}
+{"id":6917348,"name":"斉木祐介"}
+{"id":6917349,"name":"桑原彰"}
+{"id":7003383,"name":"Kim Seung Min"}
+{"id":7003386,"name":"Seo Chang Bin"}
+{"id":7003388,"name":"Lee Felix"}
+{"id":7003390,"name":"Hwang Hyun Jin"}
+{"id":7003393,"name":"Han Ji Sung"}
+{"id":7003395,"name":"Yang Jeong In"}
+{"id":7003397,"name":"Lee Min Ho"}
+{"id":7003398,"name":"Kim Woo Jin","born":1997}
+{"id":7078899,"name":"Rob Gardner"}
+{"id":7283293,"name":"Kim Nam-joon","born":1994}
+{"id":7473260,"name":"Kelly Logsdon"}
+{"id":7530441,"name":"Peter Criscuola"}
+{"id":7712349,"name":"Neil Smith","died":2013}
+{"id":7762444,"name":"Dave Lemke"}
+{"id":7808978,"name":"Jason Dean Bennison","born":1973}
+{"id":7948656,"name":"Scott McLeod"}
+{"id":8248521,"name":"Deacon Frey"}
+{"id":8269618,"name":"Gene Klein","born":1949}
+{"id":8542755,"name":"Julia Williamson"}
+{"id":9101503,"name":"John Friga"}
+{"id":9495964,"name":"Jawan M. Jackson"}
+{"id":9844243,"name":"Alexander 'Lex' Morris"}
+{"id":11300168,"name":"Andrew Colin Beck"}
+{"id":11512280,"name":"Aurora Florence"}
+{"id":14132491,"name":"Steffen Thiede"}
+{"id":15385014,"name":"Chae Young Park"}
+{"id":18053394,"name":"Tony Di Blasi"}
+{"id":18185049,"name":"David Wellcan"}

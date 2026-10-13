@@ -1,0 +1,15 @@
+{"id":1,"name":"Blues"}
+{"id":2,"name":"Brass & Military"}
+{"id":3,"name":"Children's"}
+{"id":4,"name":"Classical"}
+{"id":5,"name":"Electronic"}
+{"id":6,"name":"Folk, World, & Country"}
+{"id":7,"name":"Funk / Soul"}
+{"id":8,"name":"Hip Hop"}
+{"id":9,"name":"Jazz"}
+{"id":10,"name":"Latin"}
+{"id":11,"name":"Non-Music"}
+{"id":12,"name":"Pop"}
+{"id":13,"name":"Reggae"}
+{"id":14,"name":"Rock"}
+{"id":15,"name":"Stage & Screen"}
