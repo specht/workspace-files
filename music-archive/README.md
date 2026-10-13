@@ -5,7 +5,7 @@ This directory was generated from the monthly Discogs data dumps published at:
 https://data.discogs.com/
 
 Discogs dump date: 20261001
-Generated: 2026-10-13T14:44:19Z
+Generated: 2026-10-13T22:18:55Z
 
 Source files used:
 

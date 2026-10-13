@@ -1,6 +1,6 @@
 -- Generated from the Discogs monthly data dumps at https://data.discogs.com/
 -- Dump date: 20261001
--- Generated: 2026-10-13T14:44:18Z
+-- Generated: 2026-10-13T22:18:54Z
 -- This file: schema only.
 -- Import into an existing database, for example:  mysql < mysql-schema.sql
 

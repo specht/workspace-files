@@ -1,6 +1,6 @@
 -- Movie data from Wikidata (https://www.wikidata.org/), CC0 1.0.
 -- Films chosen by number of IMDb votes (>= 100000); no IMDb data is included.
--- Generated: 2026-10-13T21:11:47Z
+-- Generated: 2026-10-13T22:08:06Z
 -- This file: schema only.
 -- Import into an existing database, for example:  mysql < mysql-schema.sql
 

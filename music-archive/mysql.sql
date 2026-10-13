@@ -1,6 +1,6 @@
 -- Generated from the Discogs monthly data dumps at https://data.discogs.com/
 -- Dump date: 20261001
--- Generated: 2026-10-13T14:44:18Z
+-- Generated: 2026-10-13T22:18:54Z
 -- This file: schema and complete data.
 -- Import into an existing database, for example:  mysql < mysql.sql
 
@@ -55698,3 +55698,5 @@ INSERT INTO `artist_part_of` (`member_id`, `band_id`) VALUES
 ;
 
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+
+ANALYZE TABLE `artist`, `genre`, `album`, `album_genre`, `track`, `artist_part_of`;

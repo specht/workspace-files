@@ -4,7 +4,7 @@ Films, genres and the people who made them, for the *Filmdatenbank mit MySQL*
 activity of the Hackschule Workspace. Built with `src/scripts/collect-movies` from
 https://github.com/specht/workspace.
 
-Generated: 2026-10-13T21:11:47Z
+Generated: 2026-10-13T22:08:07Z
 
 ## Source and licence
 

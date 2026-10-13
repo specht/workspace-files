@@ -1,6 +1,6 @@
 -- Movie data from Wikidata (https://www.wikidata.org/), CC0 1.0.
 -- Films chosen by number of IMDb votes (>= 100000); no IMDb data is included.
--- Generated: 2026-10-13T21:11:47Z
+-- Generated: 2026-10-13T22:08:06Z
 -- This file: data only, for an existing schema.
 -- Import into an existing database, for example:  mysql < mysql-data.sql
 
@@ -71631,3 +71631,5 @@ INSERT INTO `movie_crew` (`movie_id`, `crew_id`, `job_id`) VALUES
 ;
 
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+
+ANALYZE TABLE `genre`, `movie`, `movie_genre`, `crew`, `job`, `movie_crew`;
