@@ -1,0 +1,143 @@
+{"code":"AED","name":"VAE-Dirham","wikidata":"Q200294"}
+{"code":"AFN","name":"Afghani","wikidata":"Q199471"}
+{"code":"ALL","name":"Albanischer Lek","wikidata":"Q125999"}
+{"code":"AMD","name":"Dram","wikidata":"Q130498"}
+{"code":"AOA","name":"Kwanza","wikidata":"Q200337"}
+{"code":"ARS","name":"argentinischer Peso","wikidata":"Q199578"}
+{"code":"AUD","name":"Australischer Dollar","wikidata":"Q259502"}
+{"code":"AZN","name":"Aserbaidschan-Manat","wikidata":"Q483725"}
+{"code":"BAM","name":"konvertible Mark","wikidata":"Q179620"}
+{"code":"BBD","name":"Barbados-Dollar","wikidata":"Q194351"}
+{"code":"BDT","name":"Taka","wikidata":"Q194453"}
+{"code":"BHD","name":"Bahrain-Dinar","wikidata":"Q201871"}
+{"code":"BIF","name":"Burundi-Franc","wikidata":"Q238007"}
+{"code":"BND","name":"Brunei-Dollar","wikidata":"Q206319"}
+{"code":"BOB","name":"Boliviano","wikidata":"Q200737"}
+{"code":"BRL","name":"brasilianischer Real","wikidata":"Q173117"}
+{"code":"BSD","name":"Bahama-Dollar","wikidata":"Q194339"}
+{"code":"BTN","name":"Ngultrum","wikidata":"Q201799"}
+{"code":"BWP","name":"botswanischer Pula","wikidata":"Q186794"}
+{"code":"BYN","name":"Belarussischer Rubel","wikidata":"Q21531507"}
+{"code":"BZD","name":"Belize-Dollar","wikidata":"Q275112"}
+{"code":"CAD","name":"kanadischer Dollar","wikidata":"Q1104069"}
+{"code":"CDF","name":"Kongo-Franc","wikidata":"Q4734"}
+{"code":"CHF","name":"Schweizer Franken","wikidata":"Q25344"}
+{"code":"CLP","name":"chilenischer Peso","wikidata":"Q200050"}
+{"code":"CNY","name":"Renminbi","wikidata":"Q39099"}
+{"code":"COP","name":"kolumbianischer Peso","wikidata":"Q244819"}
+{"code":"CRC","name":"Costa-Rica-Colón","wikidata":"Q242915"}
+{"code":"CUP","name":"kubanischer Peso","wikidata":"Q201505"}
+{"code":"CVE","name":"Kap-Verde-Escudo","wikidata":"Q4591"}
+{"code":"CZK","name":"tschechische Krone","wikidata":"Q131016"}
+{"code":"DJF","name":"Dschibuti-Franc","wikidata":"Q4594"}
+{"code":"DKK","name":"dänische Krone","wikidata":"Q25417"}
+{"code":"DOP","name":"dominikanischer Peso","wikidata":"Q242922"}
+{"code":"DZD","name":"algerischer Dinar","wikidata":"Q199674"}
+{"code":"EGP","name":"ägyptisches Pfund","wikidata":"Q199462"}
+{"code":"ERN","name":"eritreischer Nakfa","wikidata":"Q171503"}
+{"code":"ETB","name":"Äthiopischer Birr","wikidata":"Q206243"}
+{"code":"EUR","name":"Euro","wikidata":"Q4916"}
+{"code":"FJD","name":"Fidschi-Dollar","wikidata":"Q4592"}
+{"code":"GBP","name":"Pfund Sterling","wikidata":"Q25224"}
+{"code":"GEL","name":"georgischer Lari","wikidata":"Q4608"}
+{"code":"GHS","name":"Cedi","wikidata":"Q183530"}
+{"code":"GMD","name":"Dalasi","wikidata":"Q202885"}
+{"code":"GNF","name":"Franc Guinéen","wikidata":"Q213311"}
+{"code":"GTQ","name":"guatemaltekischer Quetzal","wikidata":"Q207396"}
+{"code":"GYD","name":"Guyana-Dollar","wikidata":"Q213005"}
+{"code":"HNL","name":"Lempira","wikidata":"Q4719"}
+{"code":"HTG","name":"Gourde","wikidata":"Q203955"}
+{"code":"HUF","name":"Forint","wikidata":"Q47190"}
+{"code":"IDR","name":"indonesische Rupiah","wikidata":"Q41588"}
+{"code":"ILS","name":"Schekel","wikidata":"Q131309"}
+{"code":"INR","name":"Indische Rupie","wikidata":"Q80524"}
+{"code":"IQD","name":"irakischer Dinar","wikidata":"Q193094"}
+{"code":"IRR","name":"iranischer Rial","wikidata":"Q188608"}
+{"code":"ISK","name":"isländische Krone","wikidata":"Q131473"}
+{"code":"JMD","name":"Jamaika-Dollar","wikidata":"Q209792"}
+{"code":"JOD","name":"jordanischer Dinar","wikidata":"Q203722"}
+{"code":"JPY","name":"Yen","wikidata":"Q8146"}
+{"code":"KES","name":"Kenia-Schilling","wikidata":"Q202882"}
+{"code":"KGS","name":"Som","wikidata":"Q35881"}
+{"code":"KHR","name":"Kambodschanischer Riel","wikidata":"Q204737"}
+{"code":"KMF","name":"Komoren-Franc","wikidata":"Q267264"}
+{"code":"KPW","name":"nordkoreanischer Won","wikidata":"Q106720"}
+{"code":"KRW","name":"südkoreanischer Won","wikidata":"Q202040"}
+{"code":"KWD","name":"Kuwait-Dinar","wikidata":"Q193098"}
+{"code":"KZT","name":"Tenge","wikidata":"Q173751"}
+{"code":"LAK","name":"Kip","wikidata":"Q200055"}
+{"code":"LBP","name":"libanesisches Pfund","wikidata":"Q201880"}
+{"code":"LKR","name":"Sri-Lanka-Rupie","wikidata":"Q4596"}
+{"code":"LRD","name":"Liberianischer Dollar","wikidata":"Q242988"}
+{"code":"LSL","name":"Lesothischer Loti","wikidata":"Q208039"}
+{"code":"LYD","name":"libyscher Dinar","wikidata":"Q190699"}
+{"code":"MAD","name":"Marokkanischer Dirham","wikidata":"Q200192"}
+{"code":"MDL","name":"moldauischer Leu","wikidata":"Q181129"}
+{"code":"MGA","name":"Ariary","wikidata":"Q4584"}
+{"code":"MKD","name":"mazedonischer Denar","wikidata":"Q177875"}
+{"code":"MMK","name":"Kyat","wikidata":"Q201875"}
+{"code":"MNT","name":"Tögrög","wikidata":"Q183435"}
+{"code":"MRU","name":"Ouguiya","wikidata":"Q207024"}
+{"code":"MUR","name":"Mauritius-Rupie","wikidata":"Q212967"}
+{"code":"MVR","name":"Rufiyaa","wikidata":"Q206600"}
+{"code":"MWK","name":"Malawi-Kwacha","wikidata":"Q211694"}
+{"code":"MXN","name":"Mexikanischer Peso","wikidata":"Q4730"}
+{"code":"MYR","name":"Ringgit","wikidata":"Q163712"}
+{"code":"MZN","name":"Metical","wikidata":"Q200753"}
+{"code":"NAD","name":"Namibia-Dollar","wikidata":"Q202462"}
+{"code":"NGN","name":"Naira","wikidata":"Q203567"}
+{"code":"NIO","name":"Córdoba Oro","wikidata":"Q207312"}
+{"code":"NOK","name":"norwegische Krone","wikidata":"Q132643"}
+{"code":"NPR","name":"Nepalesische Rupie","wikidata":"Q202895"}
+{"code":"NZD","name":"Neuseeland-Dollar","wikidata":"Q1472704"}
+{"code":"OMR","name":"Omanischer Rial","wikidata":"Q272290"}
+{"code":"PAB","name":"Panamaischer Balboa","wikidata":"Q210472"}
+{"code":"PEN","name":"Nuevo Sol","wikidata":"Q204656"}
+{"code":"PGK","name":"Kina","wikidata":"Q200759"}
+{"code":"PHP","name":"philippinischer Peso","wikidata":"Q17193"}
+{"code":"PKR","name":"pakistanische Rupie","wikidata":"Q188289"}
+{"code":"PLN","name":"Złoty","wikidata":"Q123213"}
+{"code":"PYG","name":"Paraguayischer Guaraní","wikidata":"Q207514"}
+{"code":"QAR","name":"Katar-Riyal","wikidata":"Q206386"}
+{"code":"RON","name":"rumänischer Leu","wikidata":"Q131645"}
+{"code":"RSD","name":"serbischer Dinar","wikidata":"Q172524"}
+{"code":"RUB","name":"russischer Rubel","wikidata":"Q41044"}
+{"code":"RWF","name":"Ruanda-Franc","wikidata":"Q4741"}
+{"code":"SAR","name":"Saudi-Rial","wikidata":"Q199857"}
+{"code":"SBD","name":"Salomonen-Dollar","wikidata":"Q4597"}
+{"code":"SCR","name":"Seychellen-Rupie","wikidata":"Q4595"}
+{"code":"SDG","name":"sudanesisches Pfund","wikidata":"Q271206"}
+{"code":"SEK","name":"schwedische Krone","wikidata":"Q122922"}
+{"code":"SGD","name":"Singapur-Dollar","wikidata":"Q190951"}
+{"code":"SLE","name":"Sierra-leonischer Leone","wikidata":"Q4587"}
+{"code":"SOS","name":"Somalia-Schilling","wikidata":"Q4603"}
+{"code":"SRD","name":"Suriname-Dollar","wikidata":"Q202036"}
+{"code":"SSP","name":"südsudanesisches Pfund","wikidata":"Q244366"}
+{"code":"STN","name":"São-toméischer Dobra","wikidata":"Q193712"}
+{"code":"SYP","name":"syrische Lira","wikidata":"Q240468"}
+{"code":"SZL","name":"Lilangeni","wikidata":"Q4823"}
+{"code":"THB","name":"Baht","wikidata":"Q177882"}
+{"code":"TJS","name":"Somoni","wikidata":"Q199886"}
+{"code":"TMT","name":"Turkmenistan-Manat","wikidata":"Q486637"}
+{"code":"TND","name":"tunesischer Dinar","wikidata":"Q4602"}
+{"code":"TOP","name":"Paʻanga","wikidata":"Q4613"}
+{"code":"TRY","name":"türkische Lira","wikidata":"Q172872"}
+{"code":"TTD","name":"Trinidad-und-Tobago-Dollar","wikidata":"Q242890"}
+{"code":"TWD","name":"Neuer Taiwan-Dollar","wikidata":"Q208526"}
+{"code":"TZS","name":"Tansania-Schilling","wikidata":"Q4589"}
+{"code":"UAH","name":"Hrywnja","wikidata":"Q81893"}
+{"code":"UGX","name":"Uganda-Schilling","wikidata":"Q4598"}
+{"code":"USD","name":"US-Dollar","wikidata":"Q4917"}
+{"code":"UYU","name":"uruguayischer Peso","wikidata":"Q209272"}
+{"code":"UZS","name":"Soʻm","wikidata":"Q487888"}
+{"code":"VES","name":"sovereign bolivar","wikidata":"Q56349362"}
+{"code":"VND","name":"vietnamesischer Đồng","wikidata":"Q192090"}
+{"code":"VUV","name":"Vatu","wikidata":"Q207523"}
+{"code":"WST","name":"samoanischer Tala","wikidata":"Q4588"}
+{"code":"XAF","name":"CFA-Franc BEAC","wikidata":"Q847739"}
+{"code":"XCD","name":"Ostkaribischer Dollar","wikidata":"Q26365"}
+{"code":"XOF","name":"CFA-Franc BCEAO","wikidata":"Q861690"}
+{"code":"YER","name":"Jemen-Rial","wikidata":"Q240512"}
+{"code":"ZAR","name":"südafrikanischer Rand","wikidata":"Q181907"}
+{"code":"ZMW","name":"sambischer Kwacha","wikidata":"Q73408"}
+{"code":"ZWG","name":"Simbabwe-Gold","wikidata":"Q125352135"}

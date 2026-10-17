@@ -4,7 +4,7 @@ Films, genres and the people who made them, for the *Filmdatenbank mit MySQL*
 activity of the Hackschule Workspace. Built with `src/scripts/collect-movies` from
 https://github.com/specht/workspace.
 
-Generated: 2026-10-13T22:08:07Z
+Generated: 2026-10-17T07:13:01Z
 
 ## Source and licence
 
@@ -37,14 +37,14 @@ there, and the next build picks it up.
 - `movies.txt` — 2735 movies, one JSON object per line
 - `crew.txt` — 14445 people, one JSON object per line
 - `genres.txt` — 20 genres, one JSON object per line
-- `mysql.sql` — schema and complete data
-- `mysql-schema.sql` — schema only
-- `mysql-data.sql` — data only, for a schema built in class
-- `mysql-data-movies.sql` — data only: `genre`, `movie`, `movie_genre`
-- `mysql-data-crew.sql` — data only: `crew`, `job`, `movie_crew`
-- `neo4j.dump` — logical Neo4jBolt dump for `neo4j_bolt load`
+- `movies.sql` — schema and complete data
+- `movies-schema.sql` — schema only
+- `movies-data.sql` — data only, for a schema built in class
+- `movies-data-films.sql` — data only: `genre`, `movie`, `movie_genre`
+- `movies-data-crew.sql` — data only: `crew`, `job`, `movie_crew`
+- `movies-neo4j.dump` — logical Neo4jBolt dump for `neo4j_bolt load`
 
-Every classroom dataset (also the music dataset) uses these file names.
+Every classroom dataset names its files this way, after the dataset (`countries`, `movies`, `music`).
 
 ## MySQL
 
@@ -65,9 +65,9 @@ and movie. `job.title` is one of `actor`, `director`, `writer`, `composer`,
 title and year.
 
 ```sh
-mysql < mysql.sql                 # everything
-mysql < mysql-data-movies.sql     # or step by step into tables built in class
-mysql < mysql-data-crew.sql
+mysql < movies.sql                 # everything
+mysql < movies-data-films.sql     # or step by step into tables built in class
+mysql < movies-data-crew.sql
 ```
 
 ## Neo4j
@@ -76,5 +76,5 @@ mysql < mysql-data-crew.sql
 `(Person)-[:ACTOR|DIRECTOR|WRITER|…]->(Movie)`.
 
 ```sh
-neo4j_bolt load neo4j.dump
+neo4j_bolt load movies-neo4j.dump
 ```

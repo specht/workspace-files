@@ -2,7 +2,7 @@
 -- Dump date: 20261001
 -- Generated: 2026-10-13T22:18:54Z
 -- This file: data only, part "albums" (artist, genre, album, album_genre).
--- Import into an existing database, for example:  mysql < mysql-data-albums.sql
+-- Import into an existing database, for example:  mysql < music-data-albums.sql
 
 SET NAMES utf8mb4;
 

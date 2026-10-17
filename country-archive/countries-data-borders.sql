@@ -2,7 +2,7 @@
 -- built from Wikidata (CC0 1.0) by src/scripts/collect-countries on 2026-10-17.
 -- See README.md for what each column means.
 -- This file: data only, part "borders" (border).
--- Import into an existing database, for example:  mysql < mysql-data-borders.sql
+-- Import into an existing database, for example:  mysql < countries-data-borders.sql
 
 SET NAMES utf8mb4;
 

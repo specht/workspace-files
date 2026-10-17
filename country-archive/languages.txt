@@ -1,0 +1,183 @@
+{"code":"afr","name":"Afrikaans","wikidata":"Q14196"}
+{"code":"amh","name":"Amharisch","wikidata":"Q28244"}
+{"code":"ami","name":"Amisisch","wikidata":"Q35132"}
+{"code":"ara","name":"Arabisch","wikidata":"Q13955"}
+{"code":"arb","name":"modernes Hocharabisch","wikidata":"Q56467"}
+{"code":"asf","name":"Auslan","wikidata":"Q29525"}
+{"code":"asq","name":"Österreichische Gebärdensprache","wikidata":"Q36668"}
+{"code":"aym","name":"Aymara","wikidata":"Q4627"}
+{"code":"aze","name":"Aserbaidschanisch"}
+{"code":"bam","name":"Bambara","wikidata":"Q33243"}
+{"code":"bel","name":"Belarussisch","wikidata":"Q9091"}
+{"code":"ben","name":"Bengalisch","wikidata":"Q9610"}
+{"code":"bfi","name":"Britische Gebärdensprache","wikidata":"Q33000"}
+{"code":"bib","name":"Bissa","wikidata":"Q32934"}
+{"code":"bis","name":"Bislama","wikidata":"Q35452"}
+{"code":"bjs","name":"Bajan Creole","wikidata":"Q2524014"}
+{"code":"bnn","name":"Bunun","wikidata":"Q56505"}
+{"code":"bos","name":"Bosnisch","wikidata":"Q9303"}
+{"code":"bul","name":"Bulgarisch","wikidata":"Q7918"}
+{"code":"bwg","name":"Barwe","wikidata":"Q8826802"}
+{"code":"bzs","name":"Brasilianische Gebärdensprache","wikidata":"Q3436689"}
+{"code":"cal","name":"Karolinisch","wikidata":"Q28427"}
+{"code":"cat","name":"Katalanisch","wikidata":"Q7026"}
+{"code":"ces","name":"Tschechisch","wikidata":"Q9056"}
+{"code":"cha","name":"Chamorro","wikidata":"Q33262"}
+{"code":"ckv","name":"Kavalan","wikidata":"Q716627"}
+{"code":"cmn","name":"Hochchinesisch","wikidata":"Q24841726"}
+{"code":"cnr","name":"Montenegrinisch","wikidata":"Q8821"}
+{"code":"cor","name":"Kornisch","wikidata":"Q25289"}
+{"code":"crs","name":"Seychellenkreol","wikidata":"Q34015"}
+{"code":"csb","name":"Kaschubisch","wikidata":"Q33690"}
+{"code":"dan","name":"Dänisch","wikidata":"Q9035"}
+{"code":"deu","name":"Deutsch","wikidata":"Q188"}
+{"code":"div","name":"Dhivehi","wikidata":"Q32656"}
+{"code":"dru","name":"Rukai","wikidata":"Q49232"}
+{"code":"dse","name":"Niederländische Gebärdensprache","wikidata":"Q2201099"}
+{"code":"dyu","name":"Dioula","wikidata":"Q32706"}
+{"code":"dzo","name":"Dzongkha","wikidata":"Q33081"}
+{"code":"ell","name":"Neugriechisch","wikidata":"Q36510"}
+{"code":"eng","name":"Englisch","wikidata":"Q1860"}
+{"code":"est","name":"Estnisch","wikidata":"Q9072"}
+{"code":"fas","name":"Persisch","wikidata":"Q9168"}
+{"code":"fij","name":"Fidschi","wikidata":"Q33295"}
+{"code":"fil","name":"Filipino","wikidata":"Q33298"}
+{"code":"fin","name":"Finnisch","wikidata":"Q1412"}
+{"code":"fit","name":"Tornedalfinnisch","wikidata":"Q13357"}
+{"code":"fra","name":"Französisch","wikidata":"Q150"}
+{"code":"ful","name":"Fulfulde","wikidata":"Q33454"}
+{"code":"gcl","name":"Grenada-Kreolisch","wikidata":"Q4252500"}
+{"code":"gil","name":"Kiribatisch","wikidata":"Q30898"}
+{"code":"gla","name":"Schottisch-Gälisch","wikidata":"Q9314"}
+{"code":"gle","name":"Irisch","wikidata":"Q9142"}
+{"code":"grn","name":"Guaraní","wikidata":"Q35876"}
+{"code":"hak","name":"Taiwanese Hakka","wikidata":"Q2391532"}
+{"code":"hat","name":"Haitianisch-Kreolisch","wikidata":"Q33491"}
+{"code":"hau","name":"Hausa","wikidata":"Q56475"}
+{"code":"haw","name":"Hawaiisch","wikidata":"Q33569"}
+{"code":"heb","name":"Hebräisch","wikidata":"Q9288"}
+{"code":"hif","name":"Fidschi-Hindi","wikidata":"Q46728"}
+{"code":"hin","name":"Hindi","wikidata":"Q1568"}
+{"code":"hmo","name":"Hiri Motu","wikidata":"Q33617"}
+{"code":"hrv","name":"Kroatisch","wikidata":"Q6654"}
+{"code":"hun","name":"Ungarisch","wikidata":"Q9067"}
+{"code":"hye","name":"Armenisch","wikidata":"Q8785"}
+{"code":"ind","name":"Indonesisch","wikidata":"Q9240"}
+{"code":"isl","name":"Isländisch","wikidata":"Q294"}
+{"code":"ita","name":"Italienisch","wikidata":"Q652"}
+{"code":"jam","name":"Jamaikanisch-Kreolisch","wikidata":"Q35939"}
+{"code":"jiv","name":"Shuar","wikidata":"Q617291"}
+{"code":"jpn","name":"Japanisch","wikidata":"Q5287"}
+{"code":"kao","name":"Xaasongaxango","wikidata":"Q36905"}
+{"code":"kat","name":"Georgisch","wikidata":"Q8108"}
+{"code":"kaz","name":"Kasachisch","wikidata":"Q9252"}
+{"code":"kck","name":"Kalanga","wikidata":"Q33672"}
+{"code":"kea","name":"Kapverdisches Kreol","wikidata":"Q35963"}
+{"code":"khm","name":"Khmer","wikidata":"Q9205"}
+{"code":"kin","name":"Kinyarwanda","wikidata":"Q33573"}
+{"code":"kir","name":"Kirgisisch","wikidata":"Q9255"}
+{"code":"kor","name":"Koreanisch","wikidata":"Q9176"}
+{"code":"kri","name":"Krio","wikidata":"Q35744"}
+{"code":"kur","name":"Kurdisch","wikidata":"Q36368"}
+{"code":"kvk","name":"Koreanische Gebärdensprache","wikidata":"Q3073428"}
+{"code":"lao","name":"Laotisch","wikidata":"Q9211"}
+{"code":"lat","name":"Latein","wikidata":"Q397"}
+{"code":"lav","name":"Lettisch","wikidata":"Q9078"}
+{"code":"lit","name":"Litauisch","wikidata":"Q9083"}
+{"code":"ltz","name":"Luxemburgisch","wikidata":"Q9051"}
+{"code":"mah","name":"Marshallesisch","wikidata":"Q36280"}
+{"code":"mey","name":"Hassania","wikidata":"Q56231"}
+{"code":"mkd","name":"Mazedonisch","wikidata":"Q9296"}
+{"code":"mlg","name":"Malagasy","wikidata":"Q7930"}
+{"code":"mlt","name":"Maltesisch","wikidata":"Q9166"}
+{"code":"mon","name":"Mongolisch","wikidata":"Q9246"}
+{"code":"mos","name":"Mòoré","wikidata":"Q36096"}
+{"code":"mri","name":"Māori","wikidata":"Q36451"}
+{"code":"msa","name":"Malaiisch","wikidata":"Q9237"}
+{"code":"mya","name":"Birmanisch","wikidata":"Q9228"}
+{"code":"myk","name":"Mamara","wikidata":"Q36187"}
+{"code":"nan","name":"Taiwanisch","wikidata":"Q36778"}
+{"code":"nau","name":"Nauruisch","wikidata":"Q13307"}
+{"code":"nbl","name":"Süd-Ndebele","wikidata":"Q36785"}
+{"code":"ndc","name":"Ndau","wikidata":"Q13311"}
+{"code":"nde","name":"Nord-Ndebele","wikidata":"Q35613"}
+{"code":"nep","name":"Nepali","wikidata":"Q33823"}
+{"code":"nld","name":"Niederländisch","wikidata":"Q7411"}
+{"code":"nmq","name":"Nambya","wikidata":"Q3553981"}
+{"code":"nno","name":"Nynorsk","wikidata":"Q25164"}
+{"code":"nob","name":"Bokmål","wikidata":"Q25167"}
+{"code":"nor","name":"Norwegisch","wikidata":"Q9043"}
+{"code":"nso","name":"Nord-Sotho","wikidata":"Q33890"}
+{"code":"nya","name":"Chichewa","wikidata":"Q33273"}
+{"code":"nzs","name":"neuseeländische Gebärdensprache","wikidata":"Q36239"}
+{"code":"pau","name":"Palauisch","wikidata":"Q33776"}
+{"code":"pbp","name":"Badyara","wikidata":"Q35095"}
+{"code":"pgz","name":"Papua-Neuguinea-Gebärdensprache","wikidata":"Q25044405"}
+{"code":"pol","name":"Polnisch","wikidata":"Q809"}
+{"code":"por","name":"Portugiesisch","wikidata":"Q5146"}
+{"code":"prs","name":"Dari","wikidata":"Q178440"}
+{"code":"pus","name":"Paschtu","wikidata":"Q58680"}
+{"code":"pwn","name":"Paiwan","wikidata":"Q715755"}
+{"code":"pyu","name":"Puyuma-Sprache","wikidata":"Q716690"}
+{"code":"que","name":"Quechua","wikidata":"Q5218"}
+{"code":"roh","name":"Bündnerromanisch","wikidata":"Q13199"}
+{"code":"rom","name":"Romani","wikidata":"Q13201"}
+{"code":"ron","name":"Rumänisch","wikidata":"Q7913"}
+{"code":"run","name":"Kirundi","wikidata":"Q33583"}
+{"code":"rus","name":"Russisch","wikidata":"Q7737"}
+{"code":"sag","name":"Sango","wikidata":"Q33954"}
+{"code":"sco","name":"Scots","wikidata":"Q14549"}
+{"code":"sfs","name":"Südafrikanische Gebärdensprache","wikidata":"Q3322093"}
+{"code":"sin","name":"Singhalesisch","wikidata":"Q13267"}
+{"code":"slk","name":"Slowakisch","wikidata":"Q9058"}
+{"code":"slv","name":"Slowenisch","wikidata":"Q9063"}
+{"code":"smo","name":"Samoanisch","wikidata":"Q34011"}
+{"code":"sna","name":"Shona","wikidata":"Q34004"}
+{"code":"snk","name":"Soninke","wikidata":"Q36660"}
+{"code":"som","name":"Somali","wikidata":"Q13275"}
+{"code":"sot","name":"Sesotho","wikidata":"Q34340"}
+{"code":"spa","name":"Spanisch","wikidata":"Q1321"}
+{"code":"sqi","name":"Albanisch","wikidata":"Q8748"}
+{"code":"srp","name":"Serbisch","wikidata":"Q9299"}
+{"code":"ssw","name":"Siswati","wikidata":"Q34014"}
+{"code":"swa","name":"Swahili","wikidata":"Q7838"}
+{"code":"swe","name":"Schwedisch","wikidata":"Q9027"}
+{"code":"sxr","name":"Saaroa","wikidata":"Q716599"}
+{"code":"szl","name":"Schlesisch","wikidata":"Q30319"}
+{"code":"szy","name":"Sakizaya","wikidata":"Q718269"}
+{"code":"tam","name":"Tamil","wikidata":"Q5885"}
+{"code":"tao","name":"Yami","wikidata":"Q715760"}
+{"code":"taq","name":"Tamascheq","wikidata":"Q4670066"}
+{"code":"tay","name":"Atayal","wikidata":"Q715766"}
+{"code":"tet","name":"Tetum","wikidata":"Q34125"}
+{"code":"tgk","name":"Tadschikisch","wikidata":"Q9260"}
+{"code":"tha","name":"Thailändisch","wikidata":"Q9217"}
+{"code":"tir","name":"Tigrinya","wikidata":"Q34124"}
+{"code":"toi","name":"ChiTonga","wikidata":"Q34101"}
+{"code":"ton","name":"Tongaisch","wikidata":"Q34094"}
+{"code":"tpi","name":"Tok Pisin","wikidata":"Q34159"}
+{"code":"trv","name":"Seediq","wikidata":"Q716686"}
+{"code":"tsn","name":"Setswana","wikidata":"Q34137"}
+{"code":"tso","name":"Xitsonga","wikidata":"Q34327"}
+{"code":"tss","name":"Taiwanesische Gebärdensprache","wikidata":"Q34019"}
+{"code":"tsu","name":"Tsou","wikidata":"Q716681"}
+{"code":"tuk","name":"Turkmenisch","wikidata":"Q9267"}
+{"code":"tum","name":"Tumbuka","wikidata":"Q34138"}
+{"code":"tur","name":"Türkisch","wikidata":"Q256"}
+{"code":"tvl","name":"Tuvaluisch","wikidata":"Q34055"}
+{"code":"ukr","name":"Ukrainisch","wikidata":"Q8798"}
+{"code":"urd","name":"Urdu","wikidata":"Q1617"}
+{"code":"uzb","name":"Usbekisch","wikidata":"Q9264"}
+{"code":"ven","name":"Tshivenda","wikidata":"Q32704"}
+{"code":"vie","name":"Vietnamesisch","wikidata":"Q9199"}
+{"code":"vsl","name":"Venezolanische Gebärdensprache","wikidata":"Q3322064"}
+{"code":"wol","name":"Wolof","wikidata":"Q34257"}
+{"code":"xho","name":"IsiXhosa","wikidata":"Q13218"}
+{"code":"xnb","name":"Kanakanavu","wikidata":"Q172244"}
+{"code":"xsy","name":"Saisiyat","wikidata":"Q716695"}
+{"code":"yid","name":"Jiddisch","wikidata":"Q8641"}
+{"code":"yua","name":"Mayathan","wikidata":"Q13354"}
+{"code":"zgh","name":"marokkanisches Amazigh","wikidata":"Q7598268"}
+{"code":"zho","name":"Chinesisch","wikidata":"Q7850"}
+{"code":"zib","name":"Simbabwische Gebärdensprache","wikidata":"Q8072097"}
+{"code":"zul","name":"isiZulu","wikidata":"Q10179"}

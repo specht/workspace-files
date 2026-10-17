@@ -2,7 +2,7 @@
 -- Dump date: 20261001
 -- Generated: 2026-10-13T22:18:54Z
 -- This file: data only, part "members" (artist_part_of).
--- Import into an existing database, for example:  mysql < mysql-data-members.sql
+-- Import into an existing database, for example:  mysql < music-data-members.sql
 
 SET NAMES utf8mb4;
 

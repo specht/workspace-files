@@ -29,15 +29,15 @@ included. Artist selection comes only from `wanted-artists.txt`.
 - `albums.txt` — 3130 albums, one JSON object per line
 - `tracks.txt` — 45270 tracks, one JSON object per line
 - `genres.txt` — 15 genres, one JSON object per line
-- `mysql.sql` — schema and complete data
-- `mysql-schema.sql` — schema only
-- `mysql-data.sql` — data only, for a schema built in class
-- `mysql-data-albums.sql` — data only: `artist`, `genre`, `album`, `album_genre`
-- `mysql-data-tracks.sql` — data only: `track` (load after the albums)
-- `mysql-data-members.sql` — data only: `artist_part_of` (load after the albums)
-- `neo4j.dump` — logical Neo4jBolt dump ready for `neo4j_bolt load`
+- `music.sql` — schema and complete data
+- `music-schema.sql` — schema only
+- `music-data.sql` — data only, for a schema built in class
+- `music-data-albums.sql` — data only: `artist`, `genre`, `album`, `album_genre`
+- `music-data-tracks.sql` — data only: `track` (load after the albums)
+- `music-data-members.sql` — data only: `artist_part_of` (load after the albums)
+- `music-neo4j.dump` — logical Neo4jBolt dump ready for `neo4j_bolt load`
 
-Every classroom dataset (also the IMDb movie dataset) uses these file names.
+Every classroom dataset names its files this way, after the dataset (`countries`, `movies`, `music`).
 
 The dataset also contains 854 artist-to-band membership links.
 
@@ -70,12 +70,12 @@ artist_part_of(member_id → artist, band_id → artist)
 Import it into an existing database with, for example:
 
 ```sh
-mysql < mysql.sql
+mysql < music.sql
 ```
 
 ## Neo4j / Neo4jBolt
 
-`neo4j.dump` uses Neo4jBolt's textual logical dump format. It contains:
+`music-neo4j.dump` uses Neo4jBolt's textual logical dump format. It contains:
 
 - `Artist` nodes
 - `Album` nodes
@@ -89,7 +89,7 @@ mysql < mysql.sql
 Load it into an empty Neo4j database with:
 
 ```sh
-neo4j_bolt load neo4j.dump
+neo4j_bolt load music-neo4j.dump
 ```
 
 Neo4jBolt uses dump-local integer node IDs in this file to reconnect

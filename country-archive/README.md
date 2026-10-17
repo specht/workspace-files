@@ -1,10 +1,15 @@
 # Country dataset (Wikidata)
 
-The continents, the countries of the world, their cities and which countries
-share a border, for the *Einführung in SQL* of the Hackschule Workspace. Built
-with `src/scripts/collect-countries` from https://github.com/specht/workspace.
+The continents, the countries of the world, their cities, which countries share
+a border, their currencies and official languages, for the *Einführung in SQL*
+of the Hackschule Workspace and what comes after it. Built with
+`src/scripts/collect-countries` from https://github.com/specht/workspace.
 
-Generated: 2026-10-17T00:47:20Z
+Two versions: `countries-basic.sql` has only `continent`, `country` (with its
+first five columns) and `city`, for the first steps; `countries.sql` has
+everything. Importing `countries.sql` later replaces the basic tables.
+
+Generated: 2026-10-17T07:24:37Z
 
 ## Source and licence
 
@@ -27,6 +32,19 @@ Caribbean islands), not the kingdom as a whole.
 - `continent`: the continent (P30), by its name; a country on several
   continents counts where its capital lies, as in atlases
   (RUS, TUR, KAZ, AZE, GEO, ARM, EGY, CYP, IDN, PNG, TLS, PAN, FRA, ESP, PRT, ITA, GRC, NLD, DNK, NOR, USA, CHL, ECU, COL, VEN, YEM, JPN, NZL, AUS are set by hand)
+- `tld` (P78): the country's internet domain of two letters; of several the one
+  with preferred rank, else the one of its two-letter code (`.de`, not
+  `.deutschland`); `calling_code` (P474) with a `+`; `driving_side` (P1622),
+  `left` or `right`
+- `currency_code` (P38): the current currency by its ISO 4217 code, of several the
+  one with preferred rank; set by hand for FRA (EUR), POL (PLN), ZWE (ZWG), PAN (PAB), LSO (LSL), NAM (NAD).
+  `currency.name` is its German label
+- `country_language` (P37): the official languages of the whole country (not of
+  a region, as the languages of Russia's republics), by their ISO 639-3 code
+  (P220); a variety without a code of its own counts as its language
+  (8 items set by hand), a language without a code is left out.
+  AZE, URY have no official language in Wikidata and get the
+  language of the state
 - `is_capital`: the capital of its country (P36); with several in Wikidata,
   the one with preferred rank; set by hand for ZAF, BEN, NIC
 - cities: every human settlement (P31, a subclass of Q486972, or a
@@ -65,45 +83,58 @@ fixed there, and the next build picks it up.
 ## Files
 
 - `continents.txt` — 7 continents, one JSON object per line
-- `countries.txt` — 197 countries, one JSON object per line, with their neighbours
+- `countries.txt` — 197 countries, one JSON object per line, with their languages and neighbours
 - `cities.txt` — 4748 cities, one JSON object per line
-- `mysql.sql` — schema and complete data
-- `mysql-schema.sql` — schema only
-- `mysql-data.sql` — data only, for a schema built in class
-- `mysql-data-countries.sql` — data only: `continent`, `country`, `city`
-- `mysql-data-borders.sql` — data only: `border`
-- `neo4j.dump` — logical Neo4jBolt dump for `neo4j_bolt load`
+- `currencies.txt` — 143 currencies, `languages.txt` — 183 languages
+- `countries-basic.sql` — the basic version: `continent`, `country`, `city`, schema and data
+- `countries.sql` — everything, schema and data
+- `countries-schema.sql` — schema only
+- `countries-data.sql` — data only, for a schema built in class
+- `countries-data-cities.sql` — data only: `continent`, `currency`, `country`, `city`
+- `countries-data-borders.sql` — data only: `border`
+- `countries-data-languages.sql` — data only: `language`, `country_language`
+- `countries-neo4j.dump` — logical Neo4jBolt dump for `neo4j_bolt load`
 
-Every classroom dataset (also the movie and the music dataset) uses these file names.
+Every classroom dataset names its files this way, after the dataset (`countries`, `movies`, `music`).
 
 ## MySQL
 
 ```
 continent(name, area)
-country(code, name, population, area, continent → continent)
+currency(code, name)
+language(code, name)
+country(code, name, population, area, continent → continent, currency_code → currency, tld, calling_code, driving_side)
 city(id, name, country_code → country, population, latitude, longitude, is_capital)
 border(country_code → country, neighbor_code → country)
+country_language(country_code → country, language_code → language)
 ```
+
+The basic version: `continent`, `country(code, name, population, area,
+continent → continent)` and `city` as above.
 
 A continent is identified by its name, a country by its ISO 3166-1 alpha-3 code
 (`DEU`, `FRA`; Kosovo, which has none, by `XKS`), a city by its `id`, numbered
 by country and name; city names are not unique. Every country has
 exactly one city with `is_capital` = 1 (TRUE). `border` has a row in both directions for
 each pair of neighbours: Germany and France are `('DEU', 'FRA')` and
-`('FRA', 'DEU')`. A continent has no population of its own; it is the sum of its
+`('FRA', 'DEU')`: a deliberate redundancy, so that a plain `JOIN` finds the
+neighbours of a country. A currency is identified by its ISO 4217 code (`EUR`), a
+language by its ISO 639-3 code (`deu`, `fra`). A continent has no population of its own; it is the sum of its
 countries (`GROUP BY`). Antarctica has no countries.
 
 ```sh
-mysql < mysql.sql
+mysql < countries.sql
 ```
 
 ## Neo4j
 
-`Continent`, `Country` and `City` nodes; `(Country)-[:ON]->(Continent)`,
-`(City)-[:IN]->(Country)`, `(Country)-[:CAPITAL]->(City)` and
+`Continent`, `Country`, `City`, `Currency` and `Language` nodes;
+`(Country)-[:ON]->(Continent)`, `(City)-[:IN]->(Country)`,
+`(Country)-[:CAPITAL]->(City)`, `(Country)-[:PAYS_WITH]->(Currency)`,
+`(Country)-[:SPEAKS]->(Language)` and
 `(Country)-[:BORDERS]->(Country)` once per pair, to be followed either way:
 `(a:Country)-[:BORDERS]-(b:Country)`.
 
 ```sh
-neo4j_bolt load neo4j.dump
+neo4j_bolt load countries-neo4j.dump
 ```
