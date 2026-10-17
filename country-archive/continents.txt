@@ -1,0 +1,7 @@
+{"name":"Afrika","area":29648481,"wikidata":"Q15"}
+{"name":"Antarktika","area":13720000,"wikidata":"Q51"}
+{"name":"Asien","area":44614500,"wikidata":"Q48"}
+{"name":"Europa","area":10186000,"wikidata":"Q46"}
+{"name":"Nordamerika","area":21329947,"wikidata":"Q49"}
+{"name":"Ozeanien","area":8486460,"wikidata":"Q55643"}
+{"name":"Südamerika","area":17461112,"wikidata":"Q18"}

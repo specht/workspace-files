@@ -48,9 +48,20 @@ Every classroom dataset (also the music dataset) uses these file names.
 
 ## MySQL
 
-Tables: `movie`, `genre`, `movie_genre`, `crew`, `job`, `movie_crew`.
+One line per table, the primary key first, `→` for a foreign key:
+
+```
+movie(id, title, original_title, german_title, year, runtime)
+genre(id, name)
+movie_genre(movie_id → movie, genre_id → genre)
+crew(id, name, birth_year, death_year)
+job(id, title)
+movie_crew(movie_id → movie, crew_id → crew, job_id → job)
+```
+
 `movie_crew` connects a movie, a person and a job; a person appears once per job
-and movie. Titles are not unique, so a film is identified by its `id`, or by
+and movie. `job.title` is one of `actor`, `director`, `writer`, `composer`,
+`producer`, `cinematographer`, `editor`. Titles are not unique, so a film is identified by its `id`, or by
 title and year.
 
 ```sh

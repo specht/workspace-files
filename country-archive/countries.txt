@@ -1,0 +1,197 @@
+{"code":"AFG","name":"Afghanistan","population":41454761,"area":652230.0,"wikidata":"Q889","continent":"Asien","neighbors":["CHN","IRN","PAK","TJK","TKM","UZB"]}
+{"code":"AGO","name":"Angola","population":36749906,"area":1246700.0,"wikidata":"Q916","continent":"Afrika","neighbors":["COD","COG","NAM","ZMB"]}
+{"code":"ALB","name":"Albanien","population":2811655,"area":28748.0,"wikidata":"Q222","continent":"Europa","neighbors":["GRC","MKD","MNE","SRB","XKS"]}
+{"code":"AND","name":"Andorra","population":89752,"area":468.0,"wikidata":"Q228","continent":"Europa","neighbors":["ESP","FRA"]}
+{"code":"ARE","name":"Vereinigte Arabische Emirate","population":10100000,"area":83600.0,"wikidata":"Q878","continent":"Asien","neighbors":["OMN","SAU"]}
+{"code":"ARG","name":"Argentinien","population":47327407,"area":2780400.0,"wikidata":"Q414","continent":"Südamerika","neighbors":["BOL","BRA","CHL","PRY","URY"]}
+{"code":"ARM","name":"Armenien","population":2930450,"area":29743.42,"wikidata":"Q399","continent":"Asien","neighbors":["AZE","GEO","IRN","TUR"]}
+{"code":"ATG","name":"Antigua und Barbuda","population":101489,"area":440.29,"wikidata":"Q781","continent":"Nordamerika","neighbors":[]}
+{"code":"AUS","name":"Australien","population":27614411,"area":7692024.0,"wikidata":"Q408","continent":"Ozeanien","neighbors":[]}
+{"code":"AUT","name":"Österreich","population":8979894,"area":83878.99,"wikidata":"Q40","continent":"Europa","neighbors":["CHE","CZE","DEU","HUN","ITA","LIE","SVK","SVN"]}
+{"code":"AZE","name":"Aserbaidschan","population":10180770,"area":86600.0,"wikidata":"Q227","continent":"Asien","neighbors":["ARM","GEO","IRN","RUS","TUR"]}
+{"code":"BDI","name":"Burundi","population":13689450,"area":27834.0,"wikidata":"Q967","continent":"Afrika","neighbors":["COD","RWA","TZA"]}
+{"code":"BEL","name":"Belgien","population":11825551,"area":30688.0,"wikidata":"Q31","continent":"Europa","neighbors":["DEU","FRA","LUX","NLD"]}
+{"code":"BEN","name":"Benin","population":14111034,"area":114763.0,"wikidata":"Q962","continent":"Afrika","neighbors":["BFA","NER","NGA","TGO"]}
+{"code":"BFA","name":"Burkina Faso","population":23025776,"area":274200.0,"wikidata":"Q965","continent":"Afrika","neighbors":["BEN","CIV","GHA","MLI","NER","TGO"]}
+{"code":"BGD","name":"Bangladesch","population":175686899,"area":147570.0,"wikidata":"Q902","continent":"Asien","neighbors":["IND","MMR"]}
+{"code":"BGR","name":"Bulgarien","population":6423207,"area":110993.6,"wikidata":"Q219","continent":"Europa","neighbors":["GRC","MKD","ROU","SRB","TUR"]}
+{"code":"BHR","name":"Bahrain","population":1600000,"area":786.5,"wikidata":"Q398","continent":"Asien","neighbors":[]}
+{"code":"BHS","name":"Bahamas","population":399440,"area":13878.0,"wikidata":"Q778","continent":"Nordamerika","neighbors":[]}
+{"code":"BIH","name":"Bosnien und Herzegowina","population":3816459,"area":51187.0,"wikidata":"Q225","continent":"Europa","neighbors":["HRV","MNE","SRB"]}
+{"code":"BLR","name":"Belarus","population":9056080,"area":207596.76,"wikidata":"Q184","continent":"Europa","neighbors":["LTU","LVA","POL","RUS","UKR"]}
+{"code":"BLZ","name":"Belize","population":411106,"area":22966.0,"wikidata":"Q242","continent":"Nordamerika","neighbors":["GTM","MEX"]}
+{"code":"BOL","name":"Bolivien","population":12244159,"area":1098581.0,"wikidata":"Q750","continent":"Südamerika","neighbors":["ARG","BRA","CHL","PER","PRY"]}
+{"code":"BRA","name":"Brasilien","population":214211951,"area":8515767.0,"wikidata":"Q155","continent":"Südamerika","neighbors":["ARG","BOL","COL","FRA","GUY","PER","PRY","SUR","URY","VEN"]}
+{"code":"BRB","name":"Barbados","population":303431,"area":439.0,"wikidata":"Q244","continent":"Nordamerika","neighbors":[]}
+{"code":"BRN","name":"Brunei","population":458949,"area":5765.31,"wikidata":"Q921","continent":"Asien","neighbors":["MYS"]}
+{"code":"BTN","name":"Bhutan","population":796682,"area":38394.0,"wikidata":"Q917","continent":"Asien","neighbors":["CHN","IND"]}
+{"code":"BWA","name":"Botswana","population":2480244,"area":581737.0,"wikidata":"Q963","continent":"Afrika","neighbors":["NAM","ZAF","ZMB","ZWE"]}
+{"code":"CAF","name":"Zentralafrikanische Republik","population":5152421,"area":622984.0,"wikidata":"Q929","continent":"Afrika","neighbors":["CMR","COD","COG","SDN","SSD","TCD"]}
+{"code":"CAN","name":"Kanada","population":40000000,"area":9984670.0,"wikidata":"Q16","continent":"Nordamerika","neighbors":["USA"]}
+{"code":"CHE","name":"Schweiz","population":9104063,"area":41291.0,"wikidata":"Q39","continent":"Europa","neighbors":["AUT","DEU","FRA","ITA","LIE"]}
+{"code":"CHL","name":"Chile","population":19458000,"area":756102.0,"wikidata":"Q298","continent":"Südamerika","neighbors":["ARG","BOL","PER"]}
+{"code":"CHN","name":"China","population":1404890000,"area":9596961.0,"wikidata":"Q148","continent":"Asien","neighbors":["AFG","BTN","IND","KAZ","KGZ","LAO","MMR","MNG","NPL","PAK","PRK","RUS","TJK","VNM"]}
+{"code":"CIV","name":"Elfenbeinküste","population":31165654,"area":322463.0,"wikidata":"Q1008","continent":"Afrika","neighbors":["BFA","GHA","GIN","LBR","MLI"]}
+{"code":"CMR","name":"Kamerun","population":28372687,"area":475442.0,"wikidata":"Q1009","continent":"Afrika","neighbors":["CAF","COG","GAB","GNQ","NGA","TCD"]}
+{"code":"COD","name":"Demokratische Republik Kongo","population":105789731,"area":2344858.0,"wikidata":"Q974","continent":"Afrika","neighbors":["AGO","BDI","CAF","COG","RWA","SSD","TZA","UGA","ZMB"]}
+{"code":"COG","name":"Republik Kongo","population":6278845,"area":342000.0,"wikidata":"Q971","continent":"Afrika","neighbors":["AGO","CAF","CMR","COD","GAB"]}
+{"code":"COL","name":"Kolumbien","population":52321152,"area":1141748.0,"wikidata":"Q739","continent":"Südamerika","neighbors":["BRA","ECU","PER","VEN"]}
+{"code":"COM","name":"Komoren","population":900000,"area":2034.0,"wikidata":"Q970","continent":"Afrika","neighbors":[]}
+{"code":"CPV","name":"Kap Verde","population":555988,"area":4033.0,"wikidata":"Q1011","continent":"Afrika","neighbors":[]}
+{"code":"CRI","name":"Costa Rica","population":5265575,"area":51179.92,"wikidata":"Q800","continent":"Nordamerika","neighbors":["NIC","PAN"]}
+{"code":"CUB","name":"Kuba","population":10985974,"area":109884.0,"wikidata":"Q241","continent":"Nordamerika","neighbors":[]}
+{"code":"CYP","name":"Zypern","population":1344976,"area":9242.45,"wikidata":"Q229","continent":"Asien","neighbors":["GBR"]}
+{"code":"CZE","name":"Tschechien","population":10909500,"area":78871.0,"wikidata":"Q213","continent":"Europa","neighbors":["AUT","DEU","POL","SVK"]}
+{"code":"DEU","name":"Deutschland","population":83467117,"area":357587.77,"wikidata":"Q183","continent":"Europa","neighbors":["AUT","BEL","CHE","CZE","DNK","FRA","LUX","NLD","POL"]}
+{"code":"DJI","name":"Dschibuti","population":1000000,"area":23200.0,"wikidata":"Q977","continent":"Afrika","neighbors":["ERI","ETH","SOM"]}
+{"code":"DMA","name":"Dominica","population":74656,"area":751.1,"wikidata":"Q784","continent":"Nordamerika","neighbors":[]}
+{"code":"DNK","name":"Dänemark","population":5822863,"area":42925.46,"wikidata":"Q35","continent":"Europa","neighbors":["DEU"]}
+{"code":"DOM","name":"Dominikanische Republik","population":10760028,"area":48670.82,"wikidata":"Q786","continent":"Nordamerika","neighbors":["HTI"]}
+{"code":"DZA","name":"Algerien","population":45600000,"area":2381741.0,"wikidata":"Q262","continent":"Afrika","neighbors":["LBY","MAR","MLI","MRT","NER","TUN"]}
+{"code":"ECU","name":"Ecuador","population":16938986,"area":257204.27,"wikidata":"Q736","continent":"Südamerika","neighbors":["COL","PER"]}
+{"code":"EGY","name":"Ägypten","population":114500000,"area":1010407.87,"wikidata":"Q79","continent":"Afrika","neighbors":["ISR","LBY","PSE","SDN"]}
+{"code":"ERI","name":"Eritrea","population":3497000,"area":117600.0,"wikidata":"Q986","continent":"Afrika","neighbors":["DJI","ETH","SDN"]}
+{"code":"ESP","name":"Spanien","population":48592909,"area":505990.0,"wikidata":"Q29","continent":"Europa","neighbors":["AND","FRA","GBR","MAR","PRT"]}
+{"code":"EST","name":"Estland","population":1369995,"area":45335.0,"wikidata":"Q191","continent":"Europa","neighbors":["LVA","RUS"]}
+{"code":"ETH","name":"Äthiopien","population":128691692,"area":1104300.0,"wikidata":"Q115","continent":"Afrika","neighbors":["DJI","ERI","KEN","SDN","SOM","SSD"]}
+{"code":"FIN","name":"Finnland","population":5652881,"area":338478.34,"wikidata":"Q33","continent":"Europa","neighbors":["NOR","RUS","SWE"]}
+{"code":"FJI","name":"Fidschi","population":926276,"area":18274.0,"wikidata":"Q712","continent":"Ozeanien","neighbors":[]}
+{"code":"FRA","name":"Frankreich","population":68605616,"area":643801.0,"wikidata":"Q142","continent":"Europa","neighbors":["AND","BEL","BRA","CHE","DEU","ESP","ITA","LUX","MCO","SUR"]}
+{"code":"FSM","name":"Mikronesien","population":75817,"area":702.0,"wikidata":"Q702","continent":"Ozeanien","neighbors":[]}
+{"code":"GAB","name":"Gabun","population":2300000,"area":267667.0,"wikidata":"Q1000","continent":"Afrika","neighbors":["CMR","COG","GNQ"]}
+{"code":"GBR","name":"Vereinigtes Königreich","population":67326569,"area":242495.0,"wikidata":"Q145","continent":"Europa","neighbors":["CYP","ESP","IRL"]}
+{"code":"GEO","name":"Georgien","population":3929581,"area":69700.0,"wikidata":"Q230","continent":"Asien","neighbors":["ARM","AZE","RUS","TUR"]}
+{"code":"GHA","name":"Ghana","population":32833031,"area":238535.0,"wikidata":"Q117","continent":"Afrika","neighbors":["BFA","CIV","TGO"]}
+{"code":"GIN","name":"Guinea","population":17521167,"area":245857.0,"wikidata":"Q1006","continent":"Afrika","neighbors":["CIV","GNB","LBR","MLI","SEN","SLE"]}
+{"code":"GMB","name":"Gambia","population":2639916,"area":11300.0,"wikidata":"Q1005","continent":"Afrika","neighbors":["SEN"]}
+{"code":"GNB","name":"Guinea-Bissau","population":1861283,"area":36125.0,"wikidata":"Q1007","continent":"Afrika","neighbors":["GIN","SEN"]}
+{"code":"GNQ","name":"Äquatorialguinea","population":1847549,"area":28051.0,"wikidata":"Q983","continent":"Afrika","neighbors":["CMR","GAB"]}
+{"code":"GRC","name":"Griechenland","population":10566531,"area":131957.0,"wikidata":"Q41","continent":"Europa","neighbors":["ALB","BGR","MKD","TUR"]}
+{"code":"GRD","name":"Grenada","population":114299,"area":348.5,"wikidata":"Q769","continent":"Nordamerika","neighbors":[]}
+{"code":"GTM","name":"Guatemala","population":17263239,"area":108889.0,"wikidata":"Q774","continent":"Nordamerika","neighbors":["BLZ","HND","MEX","SLV"]}
+{"code":"GUY","name":"Guyana","population":878674,"area":214970.0,"wikidata":"Q734","continent":"Südamerika","neighbors":["BRA","SUR","VEN"]}
+{"code":"HND","name":"Honduras","population":11002356,"area":112492.0,"wikidata":"Q783","continent":"Nordamerika","neighbors":["GTM","NIC","SLV"]}
+{"code":"HRV","name":"Kroatien","population":3871833,"area":56594.0,"wikidata":"Q224","continent":"Europa","neighbors":["BIH","HUN","MNE","SRB","SVN"]}
+{"code":"HTI","name":"Haiti","population":10981229,"area":27750.0,"wikidata":"Q790","continent":"Nordamerika","neighbors":["DOM"]}
+{"code":"HUN","name":"Ungarn","population":9489000,"area":93011.4,"wikidata":"Q28","continent":"Europa","neighbors":["AUT","HRV","ROU","SRB","SVK","SVN","UKR"]}
+{"code":"IDN","name":"Indonesien","population":275439000,"area":1904570.0,"wikidata":"Q252","continent":"Asien","neighbors":["MYS","PNG","TLS"]}
+{"code":"IND","name":"Indien","population":1326093247,"area":3287263.0,"wikidata":"Q668","continent":"Asien","neighbors":["BGD","BTN","CHN","MMR","NPL","PAK"]}
+{"code":"IRL","name":"Irland","population":5149139,"area":69797.0,"wikidata":"Q27","continent":"Europa","neighbors":["GBR"]}
+{"code":"IRN","name":"Iran","population":92417700,"area":1648195.0,"wikidata":"Q794","continent":"Asien","neighbors":["AFG","ARM","AZE","IRQ","PAK","TKM","TUR"]}
+{"code":"IRQ","name":"Irak","population":43500000,"area":437072.0,"wikidata":"Q796","continent":"Asien","neighbors":["IRN","JOR","KWT","SAU","SYR","TUR"]}
+{"code":"ISL","name":"Island","population":376248,"area":103004.0,"wikidata":"Q189","continent":"Europa","neighbors":[]}
+{"code":"ISR","name":"Israel","population":9840000,"area":20770.0,"wikidata":"Q801","continent":"Asien","neighbors":["EGY","JOR","LBN","SYR"]}
+{"code":"ITA","name":"Italien","population":58850717,"area":302068.0,"wikidata":"Q38","continent":"Europa","neighbors":["AUT","CHE","FRA","SMR","SVN","VAT"]}
+{"code":"JAM","name":"Jamaika","population":2734093,"area":10991.91,"wikidata":"Q766","continent":"Nordamerika","neighbors":[]}
+{"code":"JOR","name":"Jordanien","population":11300000,"area":89341.0,"wikidata":"Q810","continent":"Asien","neighbors":["IRQ","ISR","SAU","SYR"]}
+{"code":"JPN","name":"Japan","population":123802000,"area":377973.68,"wikidata":"Q17","continent":"Asien","neighbors":[]}
+{"code":"KAZ","name":"Kasachstan","population":20139914,"area":2724900.0,"wikidata":"Q232","continent":"Asien","neighbors":["CHN","KGZ","RUS","TKM","UZB"]}
+{"code":"KEN","name":"Kenia","population":47564296,"area":581309.0,"wikidata":"Q114","continent":"Afrika","neighbors":["ETH","SOM","SSD","TZA","UGA"]}
+{"code":"KGZ","name":"Kirgisistan","population":7281800,"area":199951.0,"wikidata":"Q813","continent":"Asien","neighbors":["CHN","KAZ","TJK","UZB"]}
+{"code":"KHM","name":"Kambodscha","population":17423880,"area":181035.0,"wikidata":"Q424","continent":"Asien","neighbors":["LAO","THA","VNM"]}
+{"code":"KIR","name":"Kiribati","population":134518,"area":811.0,"wikidata":"Q710","continent":"Ozeanien","neighbors":[]}
+{"code":"KNA","name":"St. Kitts und Nevis","population":46922,"area":269.36,"wikidata":"Q763","continent":"Nordamerika","neighbors":[]}
+{"code":"KOR","name":"Südkorea","population":51628117,"area":100295.0,"wikidata":"Q884","continent":"Asien","neighbors":["PRK"]}
+{"code":"KWT","name":"Kuwait","population":4300000,"area":17818.0,"wikidata":"Q817","continent":"Asien","neighbors":["IRQ","SAU"]}
+{"code":"LAO","name":"Laos","population":6858160,"area":236800.0,"wikidata":"Q819","continent":"Asien","neighbors":["CHN","KHM","MMR","THA","VNM"]}
+{"code":"LBN","name":"Libanon","population":5300000,"area":10452.0,"wikidata":"Q822","continent":"Asien","neighbors":["ISR","SYR"]}
+{"code":"LBR","name":"Liberia","population":5214030,"area":111369.0,"wikidata":"Q1014","continent":"Afrika","neighbors":["CIV","GIN","SLE"]}
+{"code":"LBY","name":"Libyen","population":7100000,"area":1759541.0,"wikidata":"Q1016","continent":"Afrika","neighbors":["DZA","EGY","NER","SDN","TCD","TUN"]}
+{"code":"LCA","name":"St. Lucia","population":167591,"area":617.01,"wikidata":"Q760","continent":"Nordamerika","neighbors":[]}
+{"code":"LIE","name":"Liechtenstein","population":38020,"area":160.0,"wikidata":"Q347","continent":"Europa","neighbors":["AUT","CHE"]}
+{"code":"LKA","name":"Sri Lanka","population":22037000,"area":65610.0,"wikidata":"Q854","continent":"Asien","neighbors":[]}
+{"code":"LSO","name":"Lesotho","population":2233339,"area":30355.0,"wikidata":"Q1013","continent":"Afrika","neighbors":["ZAF"]}
+{"code":"LTU","name":"Litauen","population":2860002,"area":65300.0,"wikidata":"Q37","continent":"Europa","neighbors":["BLR","LVA","POL","RUS"]}
+{"code":"LUX","name":"Luxemburg","population":690959,"area":2593.05,"wikidata":"Q32","continent":"Europa","neighbors":["BEL","DEU","FRA"]}
+{"code":"LVA","name":"Lettland","population":1845096,"area":61760.39,"wikidata":"Q211","continent":"Europa","neighbors":["BLR","EST","LTU","RUS"]}
+{"code":"MAR","name":"Marokko","population":38300000,"area":446550.0,"wikidata":"Q1028","continent":"Afrika","neighbors":["DZA","ESP"]}
+{"code":"MCO","name":"Monaco","population":38857,"area":2.08,"wikidata":"Q235","continent":"Europa","neighbors":["FRA"]}
+{"code":"MDA","name":"Moldau","population":2409207,"area":33843.5,"wikidata":"Q217","continent":"Europa","neighbors":["ROU","UKR"]}
+{"code":"MDG","name":"Madagaskar","population":31964956,"area":587295.0,"wikidata":"Q1019","continent":"Afrika","neighbors":[]}
+{"code":"MDV","name":"Malediven","population":436330,"area":298.0,"wikidata":"Q826","continent":"Asien","neighbors":[]}
+{"code":"MEX","name":"Mexiko","population":132274416,"area":1964375.0,"wikidata":"Q96","continent":"Nordamerika","neighbors":["BLZ","GTM","USA"]}
+{"code":"MHL","name":"Marshallinseln","population":54366,"area":181.43,"wikidata":"Q709","continent":"Ozeanien","neighbors":[]}
+{"code":"MKD","name":"Nordmazedonien","population":1836713,"area":25713.0,"wikidata":"Q221","continent":"Europa","neighbors":["ALB","BGR","GRC","SRB","XKS"]}
+{"code":"MLI","name":"Mali","population":22395489,"area":1240192.0,"wikidata":"Q912","continent":"Afrika","neighbors":["BFA","CIV","DZA","GIN","MRT","NER","SEN"]}
+{"code":"MLT","name":"Malta","population":553214,"area":316.0,"wikidata":"Q233","continent":"Europa","neighbors":[]}
+{"code":"MMR","name":"Myanmar","population":53370609,"area":676577.2,"wikidata":"Q836","continent":"Asien","neighbors":["BGD","CHN","IND","LAO","THA"]}
+{"code":"MNE","name":"Montenegro","population":617213,"area":13883.0,"wikidata":"Q236","continent":"Europa","neighbors":["ALB","BIH","HRV","SRB","XKS"]}
+{"code":"MNG","name":"Mongolei","population":3409939,"area":1564116.0,"wikidata":"Q711","continent":"Asien","neighbors":["CHN","RUS"]}
+{"code":"MOZ","name":"Mosambik","population":29668834,"area":801590.0,"wikidata":"Q1029","continent":"Afrika","neighbors":["MWI","SWZ","TZA","ZAF","ZMB","ZWE"]}
+{"code":"MRT","name":"Mauretanien","population":4900000,"area":1030700.0,"wikidata":"Q1025","continent":"Afrika","neighbors":["DZA","MLI","SEN"]}
+{"code":"MUS","name":"Mauritius","population":1264613,"area":2040.0,"wikidata":"Q1027","continent":"Afrika","neighbors":[]}
+{"code":"MWI","name":"Malawi","population":17563749,"area":118484.0,"wikidata":"Q1020","continent":"Afrika","neighbors":["MOZ","TZA","ZMB"]}
+{"code":"MYS","name":"Malaysia","population":34231700,"area":330803.0,"wikidata":"Q833","continent":"Asien","neighbors":["BRN","IDN","THA"]}
+{"code":"NAM","name":"Namibia","population":2533794,"area":825615.0,"wikidata":"Q1030","continent":"Afrika","neighbors":["AGO","BWA","ZAF","ZMB","ZWE"]}
+{"code":"NER","name":"Niger","population":21477348,"area":1267000.0,"wikidata":"Q1032","continent":"Afrika","neighbors":["BEN","BFA","DZA","LBY","MLI","NGA","TCD"]}
+{"code":"NGA","name":"Nigeria","population":211400708,"area":923768.0,"wikidata":"Q1033","continent":"Afrika","neighbors":["BEN","CMR","NER","TCD"]}
+{"code":"NIC","name":"Nicaragua","population":7005764,"area":120340.0,"wikidata":"Q811","continent":"Nordamerika","neighbors":["CRI","HND"]}
+{"code":"NLD","name":"Niederlande","population":17942942,"area":37378.0,"wikidata":"Q55","continent":"Europa","neighbors":["BEL","DEU"]}
+{"code":"NOR","name":"Norwegen","population":5627400,"area":385207.0,"wikidata":"Q20","continent":"Europa","neighbors":["FIN","RUS","SWE"]}
+{"code":"NPL","name":"Nepal","population":29164578,"area":147181.25,"wikidata":"Q837","continent":"Asien","neighbors":["CHN","IND"]}
+{"code":"NRU","name":"Nauru","population":13650,"area":21.0,"wikidata":"Q697","continent":"Ozeanien","neighbors":[]}
+{"code":"NZL","name":"Neuseeland","population":5307800,"area":268021.0,"wikidata":"Q664","continent":"Ozeanien","neighbors":[]}
+{"code":"OMN","name":"Oman","population":5100000,"area":309500.0,"wikidata":"Q842","continent":"Asien","neighbors":["ARE","SAU","YEM"]}
+{"code":"PAK","name":"Pakistan","population":223773700,"area":881913.0,"wikidata":"Q843","continent":"Asien","neighbors":["AFG","CHN","IND","IRN"]}
+{"code":"PAN","name":"Panama","population":4570133,"area":74177.3,"wikidata":"Q804","continent":"Nordamerika","neighbors":["CRI"]}
+{"code":"PER","name":"Peru","population":34157732,"area":1285216.0,"wikidata":"Q419","continent":"Südamerika","neighbors":["BOL","BRA","CHL","COL","ECU"]}
+{"code":"PHL","name":"Philippinen","population":112729484,"area":343448.0,"wikidata":"Q928","continent":"Asien","neighbors":[]}
+{"code":"PLW","name":"Palau","population":21729,"area":465.55,"wikidata":"Q695","continent":"Ozeanien","neighbors":[]}
+{"code":"PNG","name":"Papua-Neuguinea","population":8935000,"area":462840.0,"wikidata":"Q691","continent":"Ozeanien","neighbors":["IDN"]}
+{"code":"POL","name":"Polen","population":37563071,"area":312683.0,"wikidata":"Q36","continent":"Europa","neighbors":["BLR","CZE","DEU","LTU","RUS","SVK","UKR"]}
+{"code":"PRK","name":"Nordkorea","population":26418204,"area":120540.0,"wikidata":"Q423","continent":"Asien","neighbors":["CHN","KOR","RUS"]}
+{"code":"PRT","name":"Portugal","population":10347892,"area":92225.0,"wikidata":"Q45","continent":"Europa","neighbors":["ESP"]}
+{"code":"PRY","name":"Paraguay","population":6811297,"area":406756.0,"wikidata":"Q733","continent":"Südamerika","neighbors":["ARG","BOL","BRA"]}
+{"code":"PSE","name":"Palästina","population":5400000,"area":6020.0,"wikidata":"Q219060","continent":"Asien","neighbors":["EGY"]}
+{"code":"QAT","name":"Katar","population":2639211,"area":11437.0,"wikidata":"Q846","continent":"Asien","neighbors":["SAU"]}
+{"code":"ROU","name":"Rumänien","population":19053815,"area":238397.0,"wikidata":"Q218","continent":"Europa","neighbors":["BGR","HUN","MDA","SRB","UKR"]}
+{"code":"RUS","name":"Russland","population":146119928,"area":17075400.0,"wikidata":"Q159","continent":"Europa","neighbors":["AZE","BLR","CHN","EST","FIN","GEO","KAZ","LTU","LVA","MNG","NOR","POL","PRK","UKR"]}
+{"code":"RWA","name":"Ruanda","population":14569341,"area":26338.0,"wikidata":"Q1037","continent":"Afrika","neighbors":["BDI","COD","TZA","UGA"]}
+{"code":"SAU","name":"Saudi-Arabien","population":33000000,"area":2250000.0,"wikidata":"Q851","continent":"Asien","neighbors":["ARE","IRQ","JOR","KWT","OMN","QAT","YEM"]}
+{"code":"SDN","name":"Sudan","population":48945000,"area":1840687.0,"wikidata":"Q1049","continent":"Afrika","neighbors":["CAF","EGY","ERI","ETH","LBY","SSD","TCD"]}
+{"code":"SEN","name":"Senegal","population":18100000,"area":196722.0,"wikidata":"Q1041","continent":"Afrika","neighbors":["GIN","GMB","GNB","MLI","MRT"]}
+{"code":"SGP","name":"Singapur","population":5866139,"area":719.1,"wikidata":"Q334","continent":"Asien","neighbors":[]}
+{"code":"SLB","name":"Salomonen","population":611343,"area":28400.0,"wikidata":"Q685","continent":"Ozeanien","neighbors":[]}
+{"code":"SLE","name":"Sierra Leone","population":7557212,"area":71740.0,"wikidata":"Q1044","continent":"Afrika","neighbors":["GIN","LBR"]}
+{"code":"SLV","name":"El Salvador","population":6029976,"area":21041.0,"wikidata":"Q792","continent":"Nordamerika","neighbors":["GTM","HND"]}
+{"code":"SMR","name":"San Marino","population":34167,"area":61.2,"wikidata":"Q238","continent":"Europa","neighbors":["ITA"]}
+{"code":"SOM","name":"Somalia","population":18100000,"area":637657.0,"wikidata":"Q1045","continent":"Afrika","neighbors":["DJI","ETH","KEN"]}
+{"code":"SRB","name":"Serbien","population":6605168,"area":88499.0,"wikidata":"Q403","continent":"Europa","neighbors":["ALB","BGR","BIH","HRV","HUN","MKD","MNE","ROU","XKS"]}
+{"code":"SSD","name":"Südsudan","population":12575714,"area":644329.0,"wikidata":"Q958","continent":"Afrika","neighbors":["CAF","COD","ETH","KEN","SDN","UGA"]}
+{"code":"STP","name":"São Tomé und Príncipe","population":204327,"area":1001.0,"wikidata":"Q1039","continent":"Afrika","neighbors":[]}
+{"code":"SUR","name":"Suriname","population":563402,"area":163270.0,"wikidata":"Q730","continent":"Südamerika","neighbors":["BRA","FRA","GUY"]}
+{"code":"SVK","name":"Slowakei","population":5409407,"area":49033.72,"wikidata":"Q214","continent":"Europa","neighbors":["AUT","CZE","HUN","POL","UKR"]}
+{"code":"SVN","name":"Slowenien","population":2116972,"area":20271.0,"wikidata":"Q215","continent":"Europa","neighbors":["AUT","HRV","HUN","ITA"]}
+{"code":"SWE","name":"Schweden","population":10609460,"area":447425.16,"wikidata":"Q34","continent":"Europa","neighbors":["FIN","NOR"]}
+{"code":"SWZ","name":"Eswatini","population":1230506,"area":17364.0,"wikidata":"Q1050","continent":"Afrika","neighbors":["MOZ","ZAF"]}
+{"code":"SYC","name":"Seychellen","population":119773,"area":459.0,"wikidata":"Q1042","continent":"Afrika","neighbors":[]}
+{"code":"SYR","name":"Syrien","population":23000000,"area":185180.0,"wikidata":"Q858","continent":"Asien","neighbors":["IRQ","ISR","JOR","LBN","TUR"]}
+{"code":"TCD","name":"Tschad","population":19319064,"area":1284000.0,"wikidata":"Q657","continent":"Afrika","neighbors":["CAF","CMR","LBY","NER","NGA","SDN"]}
+{"code":"TGO","name":"Togo","population":12400000,"area":56785.0,"wikidata":"Q945","continent":"Afrika","neighbors":["BEN","BFA","GHA"]}
+{"code":"THA","name":"Thailand","population":66188503,"area":513119.5,"wikidata":"Q869","continent":"Asien","neighbors":["KHM","LAO","MMR","MYS"]}
+{"code":"TJK","name":"Tadschikistan","population":9504000,"area":143100.0,"wikidata":"Q863","continent":"Asien","neighbors":["AFG","CHN","KGZ","UZB"]}
+{"code":"TKM","name":"Turkmenistan","population":6117933,"area":491210.0,"wikidata":"Q874","continent":"Asien","neighbors":["AFG","IRN","KAZ","UZB"]}
+{"code":"TLS","name":"Osttimor","population":1400638,"area":14918.72,"wikidata":"Q574","continent":"Asien","neighbors":["IDN"]}
+{"code":"TON","name":"Tonga","population":105697,"area":748.51,"wikidata":"Q678","continent":"Ozeanien","neighbors":[]}
+{"code":"TTO","name":"Trinidad und Tobago","population":1369125,"area":5128.0,"wikidata":"Q754","continent":"Nordamerika","neighbors":[]}
+{"code":"TUN","name":"Tunesien","population":12400000,"area":163610.0,"wikidata":"Q948","continent":"Afrika","neighbors":["DZA","LBY"]}
+{"code":"TUR","name":"Türkei","population":85372377,"area":783562.0,"wikidata":"Q43","continent":"Asien","neighbors":["ARM","AZE","BGR","GEO","GRC","IRN","IRQ","SYR"]}
+{"code":"TUV","name":"Tuvalu","population":10643,"area":25.14,"wikidata":"Q672","continent":"Ozeanien","neighbors":[]}
+{"code":"TWN","name":"Taiwan","population":23262544,"area":36193.0,"wikidata":"Q865","continent":"Asien","neighbors":[]}
+{"code":"TZA","name":"Tansania","population":61741120,"area":947303.0,"wikidata":"Q924","continent":"Afrika","neighbors":["BDI","COD","KEN","MOZ","MWI","RWA","UGA","ZMB"]}
+{"code":"UGA","name":"Uganda","population":47123531,"area":241038.0,"wikidata":"Q1036","continent":"Afrika","neighbors":["COD","KEN","RWA","SSD","TZA"]}
+{"code":"UKR","name":"Ukraine","population":41167335,"area":603550.0,"wikidata":"Q212","continent":"Europa","neighbors":["BLR","HUN","MDA","POL","ROU","RUS","SVK"]}
+{"code":"URY","name":"Uruguay","population":3444263,"area":176215.0,"wikidata":"Q77","continent":"Südamerika","neighbors":["ARG","BRA"]}
+{"code":"USA","name":"Vereinigte Staaten","population":340110988,"area":9826675.0,"wikidata":"Q30","continent":"Nordamerika","neighbors":["CAN","MEX"]}
+{"code":"UZB","name":"Usbekistan","population":34915100,"area":448978.0,"wikidata":"Q265","continent":"Asien","neighbors":["AFG","KAZ","KGZ","TJK","TKM"]}
+{"code":"VAT","name":"Vatikanstadt","population":882,"area":0.49,"wikidata":"Q237","continent":"Europa","neighbors":["ITA"]}
+{"code":"VCT","name":"St. Vincent und die Grenadinen","population":100804,"area":389.0,"wikidata":"Q757","continent":"Nordamerika","neighbors":[]}
+{"code":"VEN","name":"Venezuela","population":31250306,"area":912050.0,"wikidata":"Q717","continent":"Südamerika","neighbors":["BRA","COL","GUY"]}
+{"code":"VNM","name":"Vietnam","population":96208984,"area":331690.0,"wikidata":"Q881","continent":"Asien","neighbors":["CHN","KHM","LAO"]}
+{"code":"VUT","name":"Vanuatu","population":300019,"area":12190.0,"wikidata":"Q686","continent":"Ozeanien","neighbors":[]}
+{"code":"WSM","name":"Samoa","population":200010,"area":2842.0,"wikidata":"Q683","continent":"Ozeanien","neighbors":[]}
+{"code":"XKS","name":"Kosovo","population":1586659,"area":10909.0,"wikidata":"Q1246","continent":"Europa","neighbors":["ALB","MKD","MNE","SRB"]}
+{"code":"YEM","name":"Jemen","population":34400000,"area":455503.0,"wikidata":"Q805","continent":"Asien","neighbors":["OMN","SAU"]}
+{"code":"ZAF","name":"Südafrika","population":62027503,"area":1221037.0,"wikidata":"Q258","continent":"Afrika","neighbors":["BWA","LSO","MOZ","NAM","SWZ","ZWE"]}
+{"code":"ZMB","name":"Sambia","population":19610769,"area":752618.0,"wikidata":"Q953","continent":"Afrika","neighbors":["AGO","BWA","COD","MOZ","MWI","NAM","TZA","ZWE"]}
+{"code":"ZWE","name":"Simbabwe","population":15178979,"area":390757.0,"wikidata":"Q954","continent":"Afrika","neighbors":["BWA","MOZ","NAM","ZAF","ZMB"]}
