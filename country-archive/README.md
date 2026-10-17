@@ -9,7 +9,7 @@ Two versions: `countries-basic.sql` has only `continent`, `country` (with its
 first five columns) and `city`, for the first steps; `countries.sql` has
 everything. Importing `countries.sql` later replaces the basic tables.
 
-Generated: 2026-10-17T07:24:37Z
+Generated: 2026-10-17T08:22:57Z
 
 ## Source and licence
 
@@ -121,6 +121,63 @@ each pair of neighbours: Germany and France are `('DEU', 'FRA')` and
 neighbours of a country. A currency is identified by its ISO 4217 code (`EUR`), a
 language by its ISO 639-3 code (`deu`, `fra`). A continent has no population of its own; it is the sum of its
 countries (`GROUP BY`). Antarctica has no countries.
+
+### ER diagram
+
+GitHub draws it from the tables. PK and FK mark the keys; a solid line is a
+foreign key that is part of the key, a dashed one any other foreign key; at the
+line, `||` is exactly one, `|o` none or one, `o{` none or several.
+
+```mermaid
+erDiagram
+  continent {
+    varchar name PK
+    int area
+  }
+  currency {
+    char code PK
+    varchar name
+  }
+  language {
+    char code PK
+    varchar name
+  }
+  country {
+    char code PK
+    varchar name
+    int population
+    decimal area
+    varchar continent FK
+    char currency_code FK
+    varchar tld
+    varchar calling_code
+    enum driving_side
+  }
+  city {
+    int id PK
+    varchar name
+    char country_code FK
+    int population
+    decimal latitude
+    decimal longitude
+    boolean is_capital
+  }
+  border {
+    char country_code PK, FK
+    char neighbor_code PK, FK
+  }
+  country_language {
+    char country_code PK, FK
+    char language_code PK, FK
+  }
+  continent ||..o{ country : "continent"
+  currency |o..o{ country : "currency_code"
+  country ||..o{ city : "country_code"
+  country ||--o{ border : "country_code"
+  country ||--o{ border : "neighbor_code"
+  country ||--o{ country_language : "country_code"
+  language ||--o{ country_language : "language_code"
+```
 
 ```sh
 mysql < countries.sql

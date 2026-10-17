@@ -67,6 +67,55 @@ artist_part_of(member_id → artist, band_id → artist)
 - `artist_part_of`: an artist (`member_id`) is or was a member of a band
   (`band_id`); both are rows of `artist`
 
+### ER diagram
+
+GitHub draws it from the tables. PK and FK mark the keys; a solid line is a
+foreign key that is part of the key, a dashed one any other foreign key; at the
+line, `||` is exactly one, `|o` none or one, `o{` none or several.
+
+```mermaid
+erDiagram
+  artist {
+    int id PK
+    text name
+    int born
+    int died
+  }
+  genre {
+    int id PK
+    varchar name
+  }
+  album {
+    int id PK
+    int discogs_release_id
+    int artist_id FK
+    text title
+    int year
+    varchar country
+    int versions
+  }
+  track {
+    int album_id PK, FK
+    int number PK
+    text title
+    int duration
+  }
+  album_genre {
+    int album_id PK, FK
+    int genre_id PK, FK
+  }
+  artist_part_of {
+    int member_id PK, FK
+    int band_id PK, FK
+  }
+  artist ||..o{ album : "artist_id"
+  album ||--o{ track : "album_id"
+  album ||--o{ album_genre : "album_id"
+  genre ||--o{ album_genre : "genre_id"
+  artist ||--o{ artist_part_of : "member_id"
+  artist ||--o{ artist_part_of : "band_id"
+```
+
 Import it into an existing database with, for example:
 
 ```sh

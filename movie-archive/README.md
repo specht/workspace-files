@@ -4,7 +4,7 @@ Films, genres and the people who made them, for the *Filmdatenbank mit MySQL*
 activity of the Hackschule Workspace. Built with `src/scripts/collect-movies` from
 https://github.com/specht/workspace.
 
-Generated: 2026-10-17T07:13:01Z
+Generated: 2026-10-17T08:24:00Z
 
 ## Source and licence
 
@@ -63,6 +63,52 @@ movie_crew(movie_id → movie, crew_id → crew, job_id → job)
 and movie. `job.title` is one of `actor`, `director`, `writer`, `composer`,
 `producer`, `cinematographer`, `editor`. Titles are not unique, so a film is identified by its `id`, or by
 title and year.
+
+### ER diagram
+
+GitHub draws it from the tables. PK and FK mark the keys; a solid line is a
+foreign key that is part of the key, a dashed one any other foreign key; at the
+line, `||` is exactly one, `|o` none or one, `o{` none or several.
+
+```mermaid
+erDiagram
+  genre {
+    int id PK
+    varchar name
+  }
+  movie {
+    int id PK
+    varchar title
+    varchar original_title
+    varchar german_title
+    int year
+    int runtime
+  }
+  movie_genre {
+    int movie_id PK, FK
+    int genre_id PK, FK
+  }
+  crew {
+    int id PK
+    varchar name
+    int birth_year
+    int death_year
+  }
+  job {
+    int id PK
+    varchar title
+  }
+  movie_crew {
+    int movie_id PK, FK
+    int crew_id PK, FK
+    int job_id PK, FK
+  }
+  movie ||--o{ movie_genre : "movie_id"
+  genre ||--o{ movie_genre : "genre_id"
+  movie ||--o{ movie_crew : "movie_id"
+  crew ||--o{ movie_crew : "crew_id"
+  job ||--o{ movie_crew : "job_id"
+```
 
 ```sh
 mysql < movies.sql                 # everything
