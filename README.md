@@ -1,8 +1,8 @@
 # Files for the Hackschule Workspace
 
 Files that students download with `wget` in the activities of the
-[Hackschule Workspace](https://github.com/specht/workspace), above all three
-classroom datasets. Each dataset folder has the same files, named after the
+[Hackschule Workspace](https://github.com/specht/workspace), above all the
+classroom datasets. Each SQL dataset folder has the same files, named after the
 dataset: `countries.sql` (tables and data), `countries-schema.sql` (tables only),
 `countries-data.sql` (data only, for tables built in class),
 `countries-data-*.sql` (the data in parts), `countries-neo4j.dump` (for
@@ -45,6 +45,42 @@ Source: [Wikidata](https://www.wikidata.org/), CC0 1.0; IMDb votes only to choos
 What each column means: [`movie-archive/README.md`](movie-archive/README.md).
 Still there under the names before October 2026, for old links, until the end of the
 school year: `mysql.sql`, `mysql-schema.sql`, `mysql-data.sql`, `mysql-data-movies.sql`, `mysql-data-crew.sql`, `neo4j.dump`.
+
+## Streets of Berlin: [`street-archive/`](street-archive/)
+
+Every street, path and stair of Berlin and of each of its twelve Bezirke, one way per line with its kind, one-way flag, name and points, compressed; next to each the public places to start from and go to: sights, squares and every school. Never addresses.
+
+| File | Size |
+| --- | ---: |
+| `berlin-places.tsv` | 70 KB |
+| `berlin.tsv.gz` | 20,280 KB |
+| `charlottenburg-wilmersdorf-places.tsv` | 7 KB |
+| `charlottenburg-wilmersdorf.tsv.gz` | 1,598 KB |
+| `friedrichshain-kreuzberg-places.tsv` | 5 KB |
+| `friedrichshain-kreuzberg.tsv.gz` | 966 KB |
+| `lichtenberg-places.tsv` | 4 KB |
+| `lichtenberg.tsv.gz` | 1,344 KB |
+| `marzahn-hellersdorf-places.tsv` | 5 KB |
+| `marzahn-hellersdorf.tsv.gz` | 1,782 KB |
+| `mitte-places.tsv` | 8 KB |
+| `mitte.tsv.gz` | 1,714 KB |
+| `neukoelln-places.tsv` | 4 KB |
+| `neukoelln.tsv.gz` | 1,529 KB |
+| `pankow-places.tsv` | 7 KB |
+| `pankow.tsv.gz` | 1,841 KB |
+| `reinickendorf-places.tsv` | 4 KB |
+| `reinickendorf.tsv.gz` | 1,591 KB |
+| `spandau-places.tsv` | 4 KB |
+| `spandau.tsv.gz` | 1,224 KB |
+| `steglitz-zehlendorf-places.tsv` | 6 KB |
+| `steglitz-zehlendorf.tsv.gz` | 2,039 KB |
+| `tempelhof-schoeneberg-places.tsv` | 5 KB |
+| `tempelhof-schoeneberg.tsv.gz` | 1,629 KB |
+| `treptow-koepenick-places.tsv` | 4 KB |
+| `treptow-koepenick.tsv.gz` | 2,047 KB |
+
+Source: [OpenStreetMap](https://www.openstreetmap.org/copyright), © OpenStreetMap contributors, ODbL 1.0. Built 2026-10-18. Used by: *Ein Routenplaner für Berlin* (`server.rb` of the template loads a Bezirk from here).
+What each column means: [`street-archive/README.md`](street-archive/README.md).
 
 ## Music: [`music-archive/`](music-archive/)
 
