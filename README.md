@@ -52,15 +52,15 @@ Every street, path and stair of Berlin and of each of its twelve Bezirke, one wa
 
 | File | Size |
 | --- | ---: |
-| `berlin-places.tsv` | 70 KB |
+| `berlin-places.tsv` | 67 KB |
 | `berlin.tsv.gz` | 20,280 KB |
 | `charlottenburg-wilmersdorf-places.tsv` | 7 KB |
 | `charlottenburg-wilmersdorf.tsv.gz` | 1,598 KB |
 | `friedrichshain-kreuzberg-places.tsv` | 5 KB |
 | `friedrichshain-kreuzberg.tsv.gz` | 966 KB |
-| `lichtenberg-places.tsv` | 4 KB |
+| `lichtenberg-places.tsv` | 5 KB |
 | `lichtenberg.tsv.gz` | 1,344 KB |
-| `marzahn-hellersdorf-places.tsv` | 5 KB |
+| `marzahn-hellersdorf-places.tsv` | 4 KB |
 | `marzahn-hellersdorf.tsv.gz` | 1,782 KB |
 | `mitte-places.tsv` | 8 KB |
 | `mitte.tsv.gz` | 1,714 KB |
