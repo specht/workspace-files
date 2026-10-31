@@ -1,6 +1,7 @@
 -- Movie data from Wikidata (https://www.wikidata.org/), CC0 1.0.
 -- Films chosen by number of IMDb votes (>= 100000); no IMDb data is included.
--- Generated: 2026-10-17T08:24:00Z
+-- The video shop (copy, customer, loan) is invented.
+-- Generated: 2026-10-31T10:49:14Z
 -- This file: schema only.
 -- Import into an existing database, for example:  mysql < movies-schema.sql
 
@@ -9,6 +10,9 @@ SET NAMES utf8mb4;
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS;
 SET FOREIGN_KEY_CHECKS=0;
 
+DROP TABLE IF EXISTS `loan`;
+DROP TABLE IF EXISTS `customer`;
+DROP TABLE IF EXISTS `copy`;
 DROP TABLE IF EXISTS `movie_crew`;
 DROP TABLE IF EXISTS `job`;
 DROP TABLE IF EXISTS `crew`;
@@ -72,6 +76,35 @@ CREATE TABLE `movie_crew` (
     FOREIGN KEY (`crew_id`) REFERENCES `crew` (`id`),
   CONSTRAINT `fk_movie_crew_job`
     FOREIGN KEY (`job_id`) REFERENCES `job` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE `copy` (
+  `id` INT NOT NULL,
+  `movie_id` INT NOT NULL,
+  `format` VARCHAR(255) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `idx_copy_movie` (`movie_id`),
+  CONSTRAINT `fk_copy_movie`
+    FOREIGN KEY (`movie_id`) REFERENCES `movie` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE `customer` (
+  `id` INT NOT NULL,
+  `name` VARCHAR(255) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE `loan` (
+  `customer_id` INT NOT NULL,
+  `copy_id` INT NOT NULL,
+  `loan_date` DATE NOT NULL,
+  `return_date` DATE NULL,
+  PRIMARY KEY (`customer_id`, `copy_id`, `loan_date`),
+  KEY `idx_loan_copy` (`copy_id`),
+  CONSTRAINT `fk_loan_customer`
+    FOREIGN KEY (`customer_id`) REFERENCES `customer` (`id`),
+  CONSTRAINT `fk_loan_copy`
+    FOREIGN KEY (`copy_id`) REFERENCES `copy` (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;

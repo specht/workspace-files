@@ -30,7 +30,7 @@ What each column means: [`country-archive/README.md`](country-archive/README.md)
 
 ## Movies: [`movie-archive/`](movie-archive/)
 
-Well-known feature films, their genres and the people who made them: cast, direction, writing, music, production, camera and editing.
+Well-known feature films, their genres and the people who made them: cast, direction, writing, music, production, camera and editing. Also an invented video shop: copies of some of the films, customers and their loans.
 
 | Table | Rows |
 | --- | ---: |
@@ -40,8 +40,11 @@ Well-known feature films, their genres and the people who made them: cast, direc
 | `crew` | 14,445 |
 | `job` | 7 |
 | `movie_crew` | 45,890 |
+| `copy` | 1,141 |
+| `customer` | 120 |
+| `loan` | 3,767 |
 
-Source: [Wikidata](https://www.wikidata.org/), CC0 1.0; IMDb votes only to choose the films. Built 2026-10-17. Used by: *Filmdatenbank* (MySQL and Neo4j), the Query Stepper.
+Source: [Wikidata](https://www.wikidata.org/), CC0 1.0; IMDb votes only to choose the films; the video shop is made up. Built 2026-10-31. Used by: *Filmdatenbank* (MySQL and Neo4j), the Query Stepper.
 What each column means: [`movie-archive/README.md`](movie-archive/README.md).
 Still there under the names before October 2026, for old links, until the end of the
 school year: `mysql.sql`, `mysql-schema.sql`, `mysql-data.sql`, `mysql-data-movies.sql`, `mysql-data-crew.sql`, `neo4j.dump`.

@@ -4,7 +4,7 @@ Films, genres and the people who made them, for the *Filmdatenbank mit MySQL*
 activity of the Hackschule Workspace. Built with `src/scripts/collect-movies` from
 https://github.com/specht/workspace.
 
-Generated: 2026-10-17T08:24:00Z
+Generated: 2026-10-31T10:49:15Z
 
 ## Source and licence
 
@@ -32,6 +32,11 @@ Nothing else from IMDb is used or included.
 Wikidata is edited by many people. A wrong date or a missing genre is best fixed
 there, and the next build picks it up.
 
+The video shop in `copy`, `customer` and `loan` is invented: copies of some of
+the films, 120 customers with made-up names and their loans from
+2026-01-02 to 2026-10-16, drawn with a fixed seed
+(`rental.rb`). `return_date` is empty while a copy is out.
+
 ## Files
 
 - `movies.txt` — 2735 movies, one JSON object per line
@@ -42,6 +47,7 @@ there, and the next build picks it up.
 - `movies-data.sql` — data only, for a schema built in class
 - `movies-data-films.sql` — data only: `genre`, `movie`, `movie_genre`
 - `movies-data-crew.sql` — data only: `crew`, `job`, `movie_crew`
+- `movies-data-rental.sql` — data only: `copy`, `customer`, `loan` (invented)
 - `movies-neo4j.dump` — logical Neo4jBolt dump for `neo4j_bolt load`
 
 Every classroom dataset names its files this way, after the dataset (`countries`, `movies`, `music`).
@@ -57,6 +63,9 @@ movie_genre(movie_id → movie, genre_id → genre)
 crew(id, name, birth_year, death_year)
 job(id, title)
 movie_crew(movie_id → movie, crew_id → crew, job_id → job)
+copy(id, movie_id → movie, format)
+customer(id, name)
+loan(customer_id → customer, copy_id → copy, loan_date, return_date)
 ```
 
 `movie_crew` connects a movie, a person and a job; a person appears once per job
@@ -103,22 +112,41 @@ erDiagram
     int crew_id PK, FK
     int job_id PK, FK
   }
+  copy {
+    int id PK
+    int movie_id FK
+    varchar format
+  }
+  customer {
+    int id PK
+    varchar name
+  }
+  loan {
+    int customer_id PK, FK
+    int copy_id PK, FK
+    date loan_date PK
+    date return_date
+  }
   movie ||--o{ movie_genre : "movie_id"
   genre ||--o{ movie_genre : "genre_id"
   movie ||--o{ movie_crew : "movie_id"
   crew ||--o{ movie_crew : "crew_id"
   job ||--o{ movie_crew : "job_id"
+  movie ||..o{ copy : "movie_id"
+  customer ||--o{ loan : "customer_id"
+  copy ||--o{ loan : "copy_id"
 ```
 
 ```sh
 mysql < movies.sql                 # everything
 mysql < movies-data-films.sql     # or step by step into tables built in class
 mysql < movies-data-crew.sql
+mysql < movies-data-rental.sql
 ```
 
 ## Neo4j
 
-`Movie`, `Person` and `Genre` nodes; `(Movie)-[:IN_GENRE]->(Genre)` and
+`Movie`, `Person` and `Genre` nodes (the video shop is not in the graph); `(Movie)-[:IN_GENRE]->(Genre)` and
 `(Person)-[:ACTOR|DIRECTOR|WRITER|…]->(Movie)`.
 
 ```sh
