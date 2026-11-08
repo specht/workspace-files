@@ -1,8 +1,0 @@
-Title: LEGO® 42056 Porsche 911 GT3 RS (LDraw)
-Author: Renderbricks (https://superspl.at/user?id=renderbricks)
-Source: https://superspl.at/scene/98c4ad8d
-License: CC Attribution (Creative Commons Attribution)
-License URL: http://creativecommons.org/licenses/by/4.0/
-Requirements: Author must be credited. Commercial use is allowed.
-
-Changed: thinned to the splats that show most and turned so that y points up, in the compact format of the Workspace splat viewer (src/content/gaussian-splatting/werkzeug/prepare_street.py).
