@@ -108,4 +108,5 @@ What each column means: [`music-archive/README.md`](music-archive/README.md).
 - `snake.c`: a small game in C, not used by an activity at the moment
 - `terra1.sql`: the old country database of the *Einführung in SQL* (until October 2026), kept for old links
 - `users.sql`: a table of users with passwords for *Bobby Tables* (SQL injection)
+- `webgl`: `ship-pirate-large.obj` and five more models of the Pirate Kit by Kenney (CC0, `kenney-license.txt`) with their texture `colormap.png`, for *3D-Grafik mit WebGL*; copied from `src/content/webgl/dateien/`
 - `working-with-files.tar.gz`: the files to explore in *Arbeiten mit Dateien*
