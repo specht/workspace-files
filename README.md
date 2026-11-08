@@ -108,5 +108,5 @@ What each column means: [`music-archive/README.md`](music-archive/README.md).
 - `snake.c`: a small game in C, not used by an activity at the moment
 - `terra1.sql`: the old country database of the *Einführung in SQL* (until October 2026), kept for old links
 - `users.sql`: a table of users with passwords for *Bobby Tables* (SQL injection)
-- `webgl`: `horse.obj`, the model *Horse Statue 01* by Rico Cilliers from Poly Haven (CC0, `horse-license.txt`), with its four textures `horse-color.jpg`, `horse-normal.jpg`, `horse-roughness.jpg` and `horse-ao.jpg`, for *3D-Grafik mit WebGL*; copied from `src/content/webgl/dateien/`, the OBJ made with `werkzeug/gltf_to_obj.py`
+- `webgl`: `ukulele.obj` (*Ukulele 01* by Joseph Burgan) and `clock.obj` with `glass.obj` (*Alarm Clock 01* by James Ray Cock) with their textures, and `hotel-room.jpg` (the panorama *Hotel Room* by Greg Zaal), all from Poly Haven (CC0, `license.txt`), for *3D-Grafik mit WebGL*; copied from `src/content/webgl/dateien/`, the OBJ files made with `werkzeug/gltf_to_obj.py`
 - `working-with-files.tar.gz`: the files to explore in *Arbeiten mit Dateien*
