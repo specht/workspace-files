@@ -1,0 +1,8 @@
+Title: Classroom of Class 6 Grade 9, China
+Author: Hite Spive (https://superspl.at/user?id=hite404)
+Source: https://superspl.at/scene/712d5b78
+License: CC Attribution (Creative Commons Attribution)
+License URL: http://creativecommons.org/licenses/by/4.0/
+Requirements: Author must be credited. Commercial use is allowed.
+
+Changed: thinned to the splats that show most and turned so that y points up, in the compact format of the Workspace splat viewer (src/content/gaussian-splatting/werkzeug/prepare_street.py).

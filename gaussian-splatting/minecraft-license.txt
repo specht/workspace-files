@@ -1,0 +1,8 @@
+Title: Minecraft Small Village (VR Ready ✅)
+Author: Rodrigo C. (https://superspl.at/user?id=kikooooo2)
+Source: https://superspl.at/scene/c6bba01c
+License: CC Attribution (Creative Commons Attribution)
+License URL: http://creativecommons.org/licenses/by/4.0/
+Requirements: Author must be credited. Commercial use is allowed.
+
+Changed: thinned to the splats that show most and turned so that y points up, in the compact format of the Workspace splat viewer (src/content/gaussian-splatting/werkzeug/prepare_street.py).
